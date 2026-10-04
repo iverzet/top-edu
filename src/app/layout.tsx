@@ -14,8 +14,17 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://top-edu.ro"),
-  title: { default: "Top Edu — Școlile din România, explicate", template: "%s | Top Edu" },
-  description: "Director independent al școlilor din România, cu date oficiale, localizare și recenzii moderate.",
+  title: { default: "Top Edu — Transparență în educație", template: "%s | Top Edu" },
+  description: "Vezi date publice despre școlile din România: bugete, indicatori, contacte și metodologia Top Edu.",
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    locale: "ro_RO",
+    url: "https://top-edu.ro",
+    siteName: "Top Edu",
+    title: "Top Edu — Transparență în educație",
+    description: "Date publice despre școlile din România, explicate clar și verificabil.",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
