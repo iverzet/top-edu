@@ -4,13 +4,13 @@ Director independent al școlilor din România, pregătit pentru publicare pe Ve
 
 ## Ce conține acum
 
-- homepage cu căutare și filtrare demonstrativă;
+- homepage cu căutare și filtrare în registrul oficial importat;
 - profiluri statice de școală;
 - metodologie pentru importul SIIIR / ARACIP;
 - politică pentru recenzii moderate și surse externe separate;
 - metadata, imagini optimizate și configurare Vercel.
 
-Datele demonstrative nu reprezintă încă registrul complet. Importul celor 18.022 de înregistrări și reverificarea celor 15.656 de coordonate sunt etapa următoare.
+Registrul inclus este „Rețeaua școlară 2025–2026”, publicat de Ministerul Educației pe data.gov.ro și importat la 8 octombrie 2025. Conține 18.022 de unități și codurile SIIIR aferente. Datele financiare, coordonatele și indicatorii suplimentari se adaugă separat, numai după documentarea sursei.
 
 ## Dezvoltare
 
