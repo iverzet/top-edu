@@ -1,42 +1,18 @@
 'use client'
 
 import { useState } from 'react'
+import Link from 'next/link'
+import { schools as officialSchools } from '@/lib/schools'
 import { ArrowDownRight, ArrowRight, ChevronDown, MapPin, Search, Sparkles } from 'lucide-react'
 
-const schools = [
-  {
-    name: 'Colegiul Național „Gheorghe Lazăr”',
-    city: 'București, Sector 5',
-    type: 'Liceu teoretic',
-    students: '1.184',
-    score: '9,42',
-    image: '/school-bucharest.png',
-    color: 'coral',
-  },
-  {
-    name: 'Liceul Teoretic „Avram Iancu”',
-    city: 'Cluj-Napoca',
-    type: 'Liceu teoretic',
-    students: '864',
-    score: '9,18',
-    image: '/school-cluj.png',
-    color: 'mint',
-  },
-  {
-    name: 'Școala Gimnazială „Elena Cuza”',
-    city: 'Iași',
-    type: 'Școală gimnazială',
-    students: '642',
-    score: '8,96',
-    image: '/school-iasi.png',
-    color: 'yellow',
-  },
-]
+const schools = officialSchools
 
 export function TopEduHome() {
   const [query, setQuery] = useState('')
   const [activeTab, setActiveTab] = useState('Prezentare')
   const [showResults, setShowResults] = useState(false)
+  const normalizedQuery = query.trim().toLocaleLowerCase('ro-RO')
+  const results = normalizedQuery ? schools.filter((school) => [school.name, school.city, school.county].join(' ').toLocaleLowerCase('ro-RO').includes(normalizedQuery)).slice(0, 6) : []
 
   const handleSearch = (value = query) => {
     setQuery(value)
@@ -72,7 +48,8 @@ export function TopEduHome() {
               <button onClick={() => handleSearch()}>Caută</button>
             </div>
             <div className="quick-searches"><span>Caută rapid:</span>{['București', 'Cluj', 'Iași', 'Brașov'].map((city) => <button key={city} onClick={() => handleSearch(city)}>{city}</button>)}</div>
-            {showResults && <div className="search-result">Am găsit școli pentru „{query}” <ArrowRight /></div>}
+            {showResults && <div className="search-result" aria-live="polite">{results.length ? `Am găsit ${results.length} școli pentru „${query}”` : `Nu am găsit școli pentru „${query}”`} <ArrowRight /></div>}
+            {showResults && results.length > 0 && <div className="search-results-list">{results.map((school) => <Link key={school.slug} href={`/scoli/${school.slug}`}><span>{school.name}</span><small>{school.city} · {school.county}</small><ArrowRight /></Link>)}</div>}
           </div>
           <div className="hero-art-wrap">
             <img src="/top-edu-family.png" alt="Patru elevi români se joacă în curtea unei școli românești" className="hero-art" />
@@ -81,16 +58,16 @@ export function TopEduHome() {
 
         <section className="featured-section" id="scoli">
           <div className="section-heading"><div><span className="section-kicker">DESCOPERĂ</span><h2>Școli care <em>inspiră.</em></h2></div><a href="#date">Vezi toate școlile <ArrowRight /></a></div>
-          <div className="school-grid">{schools.map((school) => <article className="school-card" key={school.name}>
-            <div className="school-photo"><img src={school.image} alt={`Clădirea ${school.name}`} /><span className={`photo-dot ${school.color}`} /></div>
-            <div className="school-content"><div className="school-meta"><span>{school.type}</span><span><MapPin /> {school.city}</span></div><h3>{school.name}</h3><div className="school-stats"><div><strong>{school.students}</strong><span>elevi</span></div><div><strong>{school.score}</strong><span>medie Bac</span></div><button aria-label={`Vezi profilul ${school.name}`}><ArrowDownRight /></button></div></div>
+          <div className="school-grid">{schools.slice(0, 3).map((school, index) => <article className="school-card" key={school.slug}>
+            <div className="school-photo"><img src={school.image || '/school-placeholder.svg'} alt={`Clădirea ${school.name}`} /><span className={`photo-dot ${['coral', 'mint', 'yellow'][index]}`} /></div>
+            <div className="school-content"><div className="school-meta"><span>{school.ownership}</span><span><MapPin /> {school.city}, {school.county}</span></div><h3>{school.name}</h3><div className="school-stats"><div><strong>{school.status}</strong><span>status</span></div><div><strong>{school.siiirCode}</strong><span>cod SIIIR</span></div><Link href={`/scoli/${school.slug}`} aria-label={`Vezi profilul ${school.name}`}><ArrowDownRight /></Link></div></div>
           </article>)}</div>
         </section>
 
         <section className="data-banner" id="date"><div className="banner-orbit" /><div><span className="section-kicker">TRANSPARENȚĂ, PAS CU PAS</span><h2>Unele date sunt încă<br /><em>în pregătire.</em></h2></div><p>Lucrăm cu instituții din toată țara pentru ca fiecare familie să aibă acces la informații complete, corecte și actualizate.</p><button>Vezi cum lucrăm <ArrowRight /></button></section>
 
         <section className="profile-section" id="cum-lucram"><div className="section-heading"><div><span className="section-kicker">UN PROFIL, TOATE RĂSPUNSURILE</span><h2>Vezi școala <em>altfel.</em></h2></div><span className="source-badge">● Date verificate public</span></div>
-          <div className="profile-card"><div className="profile-image"><img src={schools[0].image} alt="Clădirea Colegiului Național Gheorghe Lazăr" /><span className="profile-type">Liceu teoretic</span></div><div className="profile-info"><div className="location"><MapPin /> București, Sector 5</div><h3>Colegiul Național<br /><span>„Gheorghe Lazăr”</span></h3><p>O comunitate cu tradiție, curiozitate și rezultate care se văd.</p><div className="profile-stats"><div><strong>1.184</strong><span>elevi</span></div><div><strong>84</strong><span>profesori</span></div><div><strong>9,42</strong><span>medie Bac</span></div></div><div className="profile-tabs">{['Prezentare', 'Rezultate', 'Comunitate', 'Facilități'].map((tab) => <button className={activeTab === tab ? 'active' : ''} key={tab} onClick={() => setActiveTab(tab)}>{tab}</button>)}</div><div className="profile-foot"><span><span className="check">✓</span> Actualizat în mai 2024</span><button>Vezi profilul complet <ArrowRight /></button></div></div></div></section>
+          <div className="profile-card"><div className="profile-image"><img src={schools[0].image || '/school-placeholder.svg'} alt={`Clădirea ${schools[0].name}`} /><span className="profile-type">{schools[0].ownership}</span></div><div className="profile-info"><div className="location"><MapPin /> {schools[0].city}, {schools[0].county}</div><h3>{schools[0].name}</h3><p>{schools[0].description}</p><div className="profile-stats"><div><strong>{schools[0].status}</strong><span>status</span></div><div><strong>{schools[0].siiirCode}</strong><span>cod SIIIR</span></div><div><strong>{schools[0].levels}</strong><span>nivel</span></div></div><div className="profile-tabs">{['Prezentare', 'Date oficiale', 'Contact public'].map((tab) => <button className={activeTab === tab ? 'active' : ''} key={tab} onClick={() => setActiveTab(tab)}>{tab}</button>)}</div><div className="profile-foot"><span><span className="check">✓</span> Sursă oficială verificată</span><Link href={`/scoli/${schools[0].slug}`}>Vezi profilul complet <ArrowRight /></Link></div></div></div></section>
       </main>
       <footer><span className="brand">top<span className="brand-blue">edu</span></span><span>Educația începe cu o alegere informată.</span><span>© 2024 Top Edu</span></footer>
     </div>
