@@ -32,3 +32,9 @@ body{font-family:Inter,ui-sans-serif,system-ui,sans-serif;background:var(--paper
 /* Hero artwork from the approved visual direction */
 .hero-visual{background-image:none;isolation:isolate}
 .hero-visual .data-note{position:absolute;right:0;bottom:18px;z-index:2}
+
+/* Approved hero artwork: use the supplied illustration directly, with no overlays. */
+.hero-visual{display:flex;align-items:center;justify-content:center;height:auto;min-height:390px}
+.hero-artwork{display:block;width:100%;max-width:620px;height:auto;aspect-ratio:16 / 9;object-fit:cover;border-radius:28px;box-shadow:0 22px 55px #0b1f3a1c}
+@media(max-width:900px){.hero-visual{min-height:0;margin-top:18px}.hero-artwork{max-width:760px}}
+@media(max-width:620px){.hero-visual{margin-top:8px}.hero-artwork{width:100%;aspect-ratio:4 / 3;border-radius:22px;object-fit:cover}}
