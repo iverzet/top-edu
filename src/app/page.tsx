@@ -1,9 +1,8 @@
-import Link from "next/link";
-import { SchoolSearch } from "@/components/school-search";
-import { schools } from "@/lib/schools";
+import { TopEduHome } from "@/components/top-edu-home";
 
 export default function Home() {
-  return (
+  return <TopEduHome />;
+  /* return (
     <main>
       <div className="announcement">Nou: datele financiare 2026 intră în procesare în această lună. <a href="#date-in-pregatire">Află mai multe</a></div>
       <header className="site-header"><Link className="brand" href="/"><span>top</span>edu</Link><nav aria-label="Navigație principală"><a href="#scoli">Școli incluse</a><Link href="/metodologie">Metodologie</Link><Link href="/recenzii">Recenzii</Link></nav><a className="header-action" href="#scoli">Explorează datele</a></header>
@@ -26,5 +25,5 @@ export default function Home() {
       <section className="trust-strip"><div><p className="kicker">Fără clasamente inventate</p><h2>Comparații construite pe proveniență, nu pe promisiuni.</h2></div><p>Datele oficiale, recenziile Top Edu și sursele externe vor fi afișate separat. O școală are drept la răspuns, iar comentariile despre copii sau acuzațiile neverificate nu se publică.</p></section>
       <footer><Link className="brand inverse" href="/"><span>top</span>edu</Link><p>Proiect independent pentru transparență în educație.</p><div><Link href="/metodologie">Metodologie</Link><Link href="/recenzii">Politica recenziilor</Link></div></footer>
     </main>
-  );
+  ); */
 }
