@@ -4,8 +4,8 @@ export type ExamResult = {
   siiirCode: string;
   exam: "Evaluarea Națională" | "Bacalaureat";
   year: number;
-  average?: number;
-  passRate?: number;
+  average?: number | null;
+  passRate?: number | null;
   candidates?: number;
   source: string;
 };
