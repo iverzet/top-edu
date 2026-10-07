@@ -8,6 +8,7 @@ export type ExamResult = {
   passRate?: number | null;
   candidates?: number;
   source: string;
+  session?: string;
 };
 
 const results = resultsData as ExamResult[];

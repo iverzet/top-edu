@@ -1,0 +1,2388 @@
+{
+  "AB": {
+    "totalEuro": 8300000,
+    "totalLei": 41500000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 70,
+        "unitatiBeneficiare": 120,
+        "valoareEur": 24600000,
+        "valoareLei": 12300000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 14,
+        "unitatiBeneficiare": 14,
+        "valoareEur": 1800000,
+        "valoareLei": 9100000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 15,
+        "unitatiBeneficiare": 15,
+        "valoareEur": 3200000,
+        "valoareLei": 15800000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 27,
+        "unitatiBeneficiare": 5,
+        "valoareEur": 2300000,
+        "valoareLei": 11700000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 7,
+        "valoareEur": 15500000,
+        "valoareLei": 77100000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din ALBA",
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 25000000,
+        "valoareLei": 124300000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII DIN ALBA",
+        "valoareEur": 3600000,
+        "valoareLei": 18000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "AR": {
+    "totalEuro": 86200000,
+    "totalLei": 431000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 63,
+        "valoareEur": 28000000,
+        "valoareLei": 140000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 40,
+        "unitatiBeneficiare": 40,
+        "valoareEur": 6000000,
+        "valoareLei": 29700000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 3900000,
+        "valoareLei": 19500000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 34,
+        "unitatiBeneficiare": 34,
+        "valoareEur": 2700000,
+        "valoareLei": 13200000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 3,
+        "valoareEur": 7200000,
+        "valoareLei": 36200000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Arad",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 24400000,
+        "valoareLei": 122000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII",
+        "valoareEur": 6900000,
+        "valoareLei": 34000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "AG": {
+    "totalEuro": 97600000,
+    "totalLei": 488200000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 96,
+        "unitatiBeneficiare": 191,
+        "valoareEur": 38600000,
+        "valoareLei": 193000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 33,
+        "unitatiBeneficiare": 33,
+        "valoareEur": 5400000,
+        "valoareLei": 27000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 14,
+        "unitatiBeneficiare": 14,
+        "valoareEur": 3000000,
+        "valoareLei": 15600000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 36,
+        "unitatiBeneficiare": 36,
+        "valoareEur": 3400000,
+        "valoareLei": 17000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 5,
+        "valoareEur": 7800000,
+        "valoareLei": 39000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din ARGEȘ",
+        "proiecteDepuse": 1,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 25000000,
+        "valoareLei": 124000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR DIN CONSTANȚA",
+        "proiecteDepuse": 2,
+        "valoareEur": 6700000,
+        "valoareLei": 33600000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL ARGEȘ",
+        "valoareEur": 592000,
+        "valoareLei": 3000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "BC": {
+    "totalEuro": 86000000,
+    "totalLei": 429000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 84,
+        "unitatiBeneficiare": 151,
+        "valoareEur": 33500000,
+        "valoareLei": 167000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 38,
+        "unitatiBeneficiare": 38,
+        "valoareEur": 6500000,
+        "valoareLei": 32000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 25,
+        "unitatiBeneficiare": 25,
+        "valoareEur": 7700000,
+        "valoareLei": 38000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE/SMART -LAB",
+        "proiecteDepuse": 26,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 2600000,
+        "valoareLei": 13000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 4,
+        "valoareEur": 6200000,
+        "valoareLei": 31000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 24500000,
+        "valoareLei": 122000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR din BACĂU",
+        "valoareEur": 5200000,
+        "valoareLei": 26000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "BH": {
+    "totalEuro": 11590000,
+    "totalLei": 57900000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 99,
+        "unitatiBeneficiare": null,
+        "valoareEur": 50000000,
+        "valoareLei": 247000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 66,
+        "unitatiBeneficiare": 66,
+        "valoareEur": 11400000,
+        "valoareLei": 56500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 14,
+        "unitatiBeneficiare": 14,
+        "valoareEur": 2300000,
+        "valoareLei": 11700000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 48,
+        "unitatiBeneficiare": 48,
+        "valoareEur": 4000000,
+        "valoareLei": 20000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 3,
+        "unitatiBeneficiare": null,
+        "valoareEur": 11700000,
+        "valoareLei": 58500000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din BIHOR",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 25,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR",
+        "proiecteDepuse": 3,
+        "unitatiBeneficiare": 3,
+        "valoareEur": 10500000,
+        "valoareLei": 52200000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "proiecteDepuse": null,
+        "unitatiBeneficiare": null,
+        "valoareEur": 20000000,
+        "valoareLei": 98000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "BN": {
+    "totalEuro": 67800000,
+    "totalLei": 33900000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 62,
+        "unitatiBeneficiare": 125,
+        "valoareEur": 21000000,
+        "valoareLei": 103300000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 3100000,
+        "valoareLei": 15700000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 3400000,
+        "valoareLei": 17000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 23,
+        "unitatiBeneficiare": 23,
+        "valoareEur": 2000000,
+        "valoareLei": 10000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 15,
+        "valoareEur": 30300000,
+        "valoareLei": 151000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din BISTRIȚA-NĂSĂUD",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL BISTRIȚA-NĂSĂUD",
+        "valoareEur": 1000000,
+        "valoareLei": 5700000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "BT": {
+    "totalEuro": 62600000,
+    "totalLei": 312700000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 77,
+        "unitatiBeneficiare": 92,
+        "valoareEur": 22000000,
+        "valoareLei": 147000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 33,
+        "unitatiBeneficiare": 33,
+        "valoareEur": 6000000,
+        "valoareLei": 29000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 21,
+        "unitatiBeneficiare": 21,
+        "valoareEur": 5200000,
+        "valoareLei": 26000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE/SMART-LAB",
+        "proiecteDepuse": 28,
+        "unitatiBeneficiare": 28,
+        "valoareEur": 2600000,
+        "valoareLei": 13000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 3,
+        "valoareEur": 12000000,
+        "valoareLei": 60000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din BOTOȘANI",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 35000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în BOTOȘANI",
+        "valoareEur": 550000,
+        "valoareLei": 2700000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "BV": {
+    "totalEuro": 15400000,
+    "totalLei": 77200000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 55,
+        "unitatiBeneficiare": 55,
+        "valoareEur": 37600000,
+        "valoareLei": 18800000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 49,
+        "unitatiBeneficiare": 49,
+        "valoareEur": 9000000,
+        "valoareLei": 45000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 11,
+        "valoareEur": 2900000,
+        "valoareLei": 14600000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 28,
+        "unitatiBeneficiare": 28,
+        "valoareEur": 2600000,
+        "valoareLei": 13000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 14,
+        "valoareEur": 60600000,
+        "valoareLei": 303000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Brașov",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 24900000,
+        "valoareLei": 123000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII",
+        "valoareEur": 9500000,
+        "valoareLei": 47300000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL BRAȘOV",
+        "valoareEur": 573000,
+        "valoareLei": 2800000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "BR": {
+    "totalEuro": 3900000,
+    "totalLei": 194300000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 45,
+        "unitatiBeneficiare": 93,
+        "valoareEur": 17600000,
+        "valoareLei": 88000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 28,
+        "unitatiBeneficiare": 28,
+        "valoareEur": 4500000,
+        "valoareLei": 22500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 4,
+        "unitatiBeneficiare": 4,
+        "valoareEur": 1000000,
+        "valoareLei": 5000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 1400000,
+        "valoareLei": 7300000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 4,
+        "valoareEur": 6200000,
+        "valoareLei": 31100000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din BRĂILA",
+        "proiecteDepuse": 1,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL BRĂILA",
+        "valoareEur": 88000,
+        "valoareLei": 4400000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "B": {
+    "totalEuro": 235000000,
+    "totalLei": 1175000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 337,
+        "valoareEur": 6800000,
+        "valoareLei": 34000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 22,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 3900000,
+        "valoareLei": 19600000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 13,
+        "unitatiBeneficiare": 13,
+        "valoareEur": 5000000,
+        "valoareLei": 20000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 66,
+        "unitatiBeneficiare": 66,
+        "valoareEur": 6900000,
+        "valoareLei": 34000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 4,
+        "valoareEur": 30000000,
+        "valoareLei": 154000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 47800000,
+        "valoareLei": 239000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR",
+        "proiecteDepuse": 18,
+        "valoareEur": 7350000,
+        "valoareLei": 36700000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "BZ": {
+    "totalEuro": 102000000,
+    "totalLei": 509000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 83,
+        "unitatiBeneficiare": 141,
+        "valoareEur": 28600000,
+        "valoareLei": 143000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 30,
+        "unitatiBeneficiare": 30,
+        "valoareEur": 4900000,
+        "valoareLei": 24500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 28,
+        "unitatiBeneficiare": 28,
+        "valoareEur": 6000000,
+        "valoareLei": 30000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 24,
+        "unitatiBeneficiare": 24,
+        "valoareEur": 2200000,
+        "valoareLei": 11000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 13,
+        "valoareEur": 23300000,
+        "valoareLei": 116000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din BUZĂU",
+        "proiecteDepuse": 1,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 25000000,
+        "valoareLei": 124000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL BUZĂU",
+        "valoareEur": 4900000,
+        "valoareLei": 24500000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "CS": {
+    "totalEuro": 86000000,
+    "totalLei": 430000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 65,
+        "unitatiBeneficiare": 108,
+        "valoareEur": 20800000,
+        "valoareLei": 102000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 33,
+        "unitatiBeneficiare": 33,
+        "valoareEur": 4600000,
+        "valoareLei": 23000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 12,
+        "unitatiBeneficiare": 12,
+        "valoareEur": 1800000,
+        "valoareLei": 9000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 11,
+        "valoareEur": 1000000,
+        "valoareLei": 5000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 4,
+        "valoareEur": 27000000,
+        "valoareLei": 13800000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din CARAȘ-SEVERIN",
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 24000000,
+        "valoareLei": 121000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "CL": {
+    "totalEuro": 47700000,
+    "totalLei": 238700000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 36,
+        "unitatiBeneficiare": 101,
+        "valoareEur": 17500000,
+        "valoareLei": 87000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 32,
+        "unitatiBeneficiare": 32,
+        "valoareEur": 6000000,
+        "valoareLei": 30000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 14,
+        "unitatiBeneficiare": 14,
+        "valoareEur": 3300000,
+        "valoareLei": 16500000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 13,
+        "unitatiBeneficiare": 13,
+        "valoareEur": 1100000,
+        "valoareLei": 5500000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 2,
+        "valoareEur": 12200000,
+        "valoareLei": 60000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din CĂLĂRȘI",
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL CĂLĂRȘI",
+        "valoareEur": 740000,
+        "valoareLei": 3700000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "CJ": {
+    "totalEuro": 129500000,
+    "totalLei": 648000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 76,
+        "unitatiBeneficiare": 193,
+        "valoareEur": 33400000,
+        "valoareLei": 165000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 39,
+        "unitatiBeneficiare": 39,
+        "valoareEur": 5000000,
+        "valoareLei": 25000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 18,
+        "unitatiBeneficiare": 18,
+        "valoareEur": 3500000,
+        "valoareLei": 17500000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 44,
+        "unitatiBeneficiare": 44,
+        "valoareEur": 3300000,
+        "valoareLei": 16000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 5,
+        "valoareEur": 20400000,
+        "valoareLei": 101000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din CLUJ",
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 25000000,
+        "valoareLei": 123000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR DIN CLUJ",
+        "proiecteDepuse": 6,
+        "valoareEur": 32800000,
+        "valoareLei": 161500000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL CLUJ",
+        "valoareEur": 470000,
+        "valoareLei": 2300000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "CT": {
+    "totalEuro": 126000000,
+    "totalLei": 630000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 63,
+        "unitatiBeneficiare": 180,
+        "valoareEur": 36600000,
+        "valoareLei": 183700000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 42,
+        "unitatiBeneficiare": 42,
+        "valoareEur": 7100000,
+        "valoareLei": 35500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 19,
+        "unitatiBeneficiare": 19,
+        "valoareEur": 5600000,
+        "valoareLei": 28000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 47,
+        "unitatiBeneficiare": 47,
+        "valoareEur": 4000000,
+        "valoareLei": 20000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 5,
+        "valoareEur": 28700000,
+        "valoareLei": 143000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din CONSTANȚA",
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 20000000,
+        "valoareLei": 114000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR DIN CONSTANȚA",
+        "proiecteDepuse": 4,
+        "valoareEur": 13000000,
+        "valoareLei": 64500000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL CONSTANȚA",
+        "valoareEur": 100000,
+        "valoareLei": 5000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "CV": {
+    "totalEuro": 6700000,
+    "totalLei": 33500000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 14,
+        "unitatiBeneficiare": 14,
+        "valoareEur": 17400000,
+        "valoareLei": 8700000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 3000000,
+        "valoareLei": 15000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 9,
+        "unitatiBeneficiare": 9,
+        "valoareEur": 2000000,
+        "valoareLei": 10000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 13,
+        "unitatiBeneficiare": 13,
+        "valoareEur": 1200000,
+        "valoareLei": 6200000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 1,
+        "valoareEur": 9500000,
+        "valoareLei": 47200000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Covasna",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 6,
+        "valoareEur": 2700000,
+        "valoareLei": 13500000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "DB": {
+    "totalEuro": 75600000,
+    "totalLei": 378000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 34,
+        "unitatiBeneficiare": 143,
+        "valoareEur": 30200000,
+        "valoareLei": 151000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 46,
+        "unitatiBeneficiare": 46,
+        "valoareEur": 20000000,
+        "valoareLei": 40000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 15,
+        "unitatiBeneficiare": 15,
+        "valoareEur": 3400000,
+        "valoareLei": 17000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 30,
+        "unitatiBeneficiare": 30,
+        "valoareEur": 2700000,
+        "valoareLei": 13600000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 5,
+        "valoareEur": 19000000,
+        "valoareLei": 95300000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din DÂMBOVIȚA",
+        "proiecteDepuse": 1,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII",
+        "valoareEur": 3600000,
+        "valoareLei": 18000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în DÂMBOVIȚA",
+        "valoareEur": 1400000,
+        "valoareLei": 7300000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "DJ": {
+    "totalEuro": 84500000,
+    "totalLei": 422500000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 74,
+        "valoareEur": 26000000,
+        "valoareLei": 130000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 50,
+        "unitatiBeneficiare": 50,
+        "valoareEur": 8000000,
+        "valoareLei": 40000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 18,
+        "unitatiBeneficiare": 18,
+        "valoareEur": 3600000,
+        "valoareLei": 18000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 23,
+        "unitatiBeneficiare": 23,
+        "valoareEur": 2200000,
+        "valoareLei": 11000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 2,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 3200000,
+        "valoareLei": 16000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din DOLJ",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 24600000,
+        "valoareLei": 123200000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 9700000,
+        "valoareLei": 48300000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "GL": {
+    "totalEuro": 98500000,
+    "totalLei": 492800000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 62,
+        "valoareEur": 32000000,
+        "valoareLei": 160000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 49,
+        "unitatiBeneficiare": 49,
+        "valoareEur": 7800000,
+        "valoareLei": 39000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 14,
+        "unitatiBeneficiare": 14,
+        "valoareEur": 3500000,
+        "valoareLei": 17800000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 31,
+        "unitatiBeneficiare": 31,
+        "valoareEur": 3400000,
+        "valoareLei": 17000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 4,
+        "valoareEur": 18000000,
+        "valoareLei": 90000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din GALAȚI",
+        "proiecteDepuse": 1,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 20000000,
+        "valoareLei": 100000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII",
+        "valoareEur": 6600000,
+        "valoareLei": 33000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "GR": {
+    "totalEuro": 57500000,
+    "totalLei": 287800000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 22,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 13000000,
+        "valoareLei": 64000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 27,
+        "unitatiBeneficiare": 27,
+        "valoareEur": 4200000,
+        "valoareLei": 21100000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 27,
+        "unitatiBeneficiare": 27,
+        "valoareEur": 6600000,
+        "valoareLei": 33000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 12,
+        "unitatiBeneficiare": 12,
+        "valoareEur": 1100000,
+        "valoareLei": 5600000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 1,
+        "valoareEur": 820000,
+        "valoareLei": 4100000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din GIURGIU",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 1,
+        "valoareEur": 25000000,
+        "valoareLei": 124000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "GJ": {
+    "totalEuro": 53000000,
+    "totalLei": 265400000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 68,
+        "valoareEur": 22000000,
+        "valoareLei": 110000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 11,
+        "valoareEur": 1700000,
+        "valoareLei": 8600000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 26,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 12500000,
+        "valoareLei": 25000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 21,
+        "unitatiBeneficiare": 21,
+        "valoareEur": 1600000,
+        "valoareLei": 8000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 5,
+        "valoareEur": 12200000,
+        "valoareLei": 61000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Gorj",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 3100000,
+        "valoareLei": 15500000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în Gorj",
+        "proiecteDepuse": 1,
+        "valoareEur": 260000,
+        "valoareLei": 1300000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "HR": {
+    "totalEuro": 6110000,
+    "totalLei": 30550000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 13,
+        "unitatiBeneficiare": 125,
+        "valoareEur": 3120000,
+        "valoareLei": 15500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 22,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 2800000,
+        "valoareLei": 14200000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 14,
+        "unitatiBeneficiare": 14,
+        "valoareEur": 3200000,
+        "valoareLei": 16000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 37,
+        "unitatiBeneficiare": 37,
+        "valoareEur": 2800000,
+        "valoareLei": 14000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 4,
+        "valoareEur": 14100000,
+        "valoareLei": 70000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din HARGHITA",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 35000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "HD": {
+    "totalEuro": 138000000,
+    "totalLei": 69000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 59,
+        "unitatiBeneficiare": 59,
+        "valoareEur": 26000000,
+        "valoareLei": 129000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 23,
+        "unitatiBeneficiare": 23,
+        "valoareEur": 3900000,
+        "valoareLei": 19300000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 20,
+        "unitatiBeneficiare": 20,
+        "valoareEur": 5000000,
+        "valoareLei": 25000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 33,
+        "unitatiBeneficiare": 33,
+        "valoareEur": 2700000,
+        "valoareLei": 13600000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 7,
+        "valoareEur": 20000000,
+        "valoareLei": 100000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Hunedoara",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 70000000,
+        "valoareLei": 350000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII",
+        "valoareEur": 3200000,
+        "valoareLei": 16100000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL HUNEDOARA",
+        "valoareEur": 199000,
+        "valoareLei": 980000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "IL": {
+    "totalEuro": 55700000,
+    "totalLei": 278500000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 11,
+        "valoareEur": 16000000,
+        "valoareLei": 80000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 30,
+        "unitatiBeneficiare": 30,
+        "valoareEur": 4600000,
+        "valoareLei": 23000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 7,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 1600000,
+        "valoareLei": 8100000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 14,
+        "unitatiBeneficiare": 14,
+        "valoareEur": 1200000,
+        "valoareLei": 6300000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 2,
+        "valoareEur": 1900000,
+        "valoareLei": 9500000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Ialomita",
+        "proiecteDepuse": 1,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 19300000,
+        "valoareLei": 96400000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în Ialomița",
+        "valoareEur": 3800000,
+        "valoareLei": 19200000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "IS": {
+    "totalEuro": 168000000,
+    "totalLei": 844000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 24,
+        "unitatiBeneficiare": 199,
+        "valoareEur": 43000000,
+        "valoareLei": 215000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 76,
+        "unitatiBeneficiare": 76,
+        "valoareEur": 15500000,
+        "valoareLei": 77000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 27,
+        "unitatiBeneficiare": 27,
+        "valoareEur": 7000000,
+        "valoareLei": 35000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE / SMART-LAB",
+        "proiecteDepuse": 44,
+        "unitatiBeneficiare": 44,
+        "valoareEur": 4800000,
+        "valoareLei": 24000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 9,
+        "unitatiBeneficiare": 9,
+        "valoareEur": 45000000,
+        "valoareLei": 222000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din IAȘI",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în IAȘI",
+        "proiecteDepuse": 4,
+        "unitatiBeneficiare": 4,
+        "valoareEur": 800000,
+        "valoareLei": 3700000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 5,
+        "valoareEur": 24600000,
+        "valoareLei": 123000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR DIN IAȘI",
+        "proiecteDepuse": 4,
+        "unitatiBeneficiare": 4,
+        "valoareEur": 22000000,
+        "valoareLei": 108000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "IF": {
+    "totalEuro": 7800000,
+    "totalLei": 391000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 38,
+        "unitatiBeneficiare": 38,
+        "valoareEur": 1660000,
+        "valoareLei": 83000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 22,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 3900000,
+        "valoareLei": 19000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 7,
+        "unitatiBeneficiare": 7,
+        "valoareEur": 1400000,
+        "valoareLei": 7000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 12,
+        "unitatiBeneficiare": 12,
+        "valoareEur": 1000000,
+        "valoareLei": 5000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 9,
+        "unitatiBeneficiare": 9,
+        "valoareEur": 47200000,
+        "valoareLei": 236000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Ilfov",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL Ilfov",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 1100000,
+        "valoareLei": 5800
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "MM": {
+    "totalEuro": 111700000,
+    "totalLei": 55850000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 76,
+        "valoareEur": 39000000,
+        "valoareLei": 194000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 30,
+        "unitatiBeneficiare": 30,
+        "valoareEur": 5000000,
+        "valoareLei": 25000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 25,
+        "unitatiBeneficiare": 25,
+        "valoareEur": 5300000,
+        "valoareLei": 26600000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 31,
+        "unitatiBeneficiare": 31,
+        "valoareEur": 2700000,
+        "valoareLei": 13600000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 28000000,
+        "valoareLei": 140000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Maramureș",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 24700000,
+        "valoareLei": 123600000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "MH": {
+    "totalEuro": 38100000,
+    "totalLei": 190700000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 64,
+        "valoareEur": 17000000,
+        "valoareLei": 85000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 22,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 3100000,
+        "valoareLei": 15300000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 18,
+        "unitatiBeneficiare": 18,
+        "valoareEur": 3400000,
+        "valoareLei": 17200000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 11,
+        "valoareEur": 1000000,
+        "valoareLei": 5200000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 2,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 6400000,
+        "valoareLei": 32000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Mehedinți",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "MS": {
+    "totalEuro": 7600000,
+    "totalLei": 38000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 88,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 7700000,
+        "valoareLei": 185000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 58,
+        "unitatiBeneficiare": 58,
+        "valoareEur": 9000000,
+        "valoareLei": 44500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 9,
+        "unitatiBeneficiare": 9,
+        "valoareEur": 2100000,
+        "valoareLei": 10500000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 16,
+        "unitatiBeneficiare": 16,
+        "valoareEur": 1500000,
+        "valoareLei": 7500000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 3,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 10300000,
+        "valoareLei": 51000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din MUREȘ",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "NT": {
+    "totalEuro": 61600000,
+    "totalLei": 308200000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 71,
+        "unitatiBeneficiare": 116,
+        "valoareEur": 28000000,
+        "valoareLei": 143700000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 21,
+        "unitatiBeneficiare": 21,
+        "valoareEur": 3200000,
+        "valoareLei": 16000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 28,
+        "unitatiBeneficiare": 28,
+        "valoareEur": 8000000,
+        "valoareLei": 38000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE /SMART -LAB",
+        "proiecteDepuse": 18,
+        "unitatiBeneficiare": 18,
+        "valoareEur": 1800000,
+        "valoareLei": 9000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 6,
+        "unitatiBeneficiare": 6,
+        "valoareEur": 12500000,
+        "valoareLei": 62500000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din IAȘI",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 23,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în NEAMȚ",
+        "proiecteDepuse": 3,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 600000,
+        "valoareLei": 3000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "OT": {
+    "totalEuro": 40000000,
+    "totalLei": 200000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 96,
+        "unitatiBeneficiare": 96,
+        "valoareEur": 23400000,
+        "valoareLei": 117000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 28,
+        "unitatiBeneficiare": 28,
+        "valoareEur": 4000000,
+        "valoareLei": 20000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 11,
+        "valoareEur": 2300000,
+        "valoareLei": 11700000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 1500000,
+        "valoareLei": 7700000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 2,
+        "valoareEur": 1000000,
+        "valoareLei": 5100000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din OLT",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în OLT",
+        "valoareEur": 380000,
+        "valoareLei": 1900000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "PH": {
+    "totalEuro": 112400000,
+    "totalLei": 562000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 39,
+        "unitatiBeneficiare": 192,
+        "valoareEur": 40000000,
+        "valoareLei": 208000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 42,
+        "unitatiBeneficiare": 42,
+        "valoareEur": 7000000,
+        "valoareLei": 35000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 3800000,
+        "valoareLei": 19000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 30,
+        "unitatiBeneficiare": 30,
+        "valoareEur": 3200000,
+        "valoareLei": 16000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 8,
+        "valoareEur": 21700000,
+        "valoareLei": 108000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din PRAHOVA",
+        "proiecteDepuse": 1,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 25000000,
+        "valoareLei": 123000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII DIN PLOIEȘTI",
+        "proiecteDepuse": 2,
+        "valoareEur": 3000000,
+        "valoareLei": 16000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL PRAHOVA",
+        "valoareEur": 296000,
+        "valoareLei": 1400000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "SM": {
+    "totalEuro": 6400000,
+    "totalLei": 22500000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 63,
+        "valoareEur": 30000000,
+        "valoareLei": 150000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 39,
+        "unitatiBeneficiare": 39,
+        "valoareEur": 6200000,
+        "valoareLei": 31000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 11,
+        "valoareEur": 2400000,
+        "valoareLei": 12000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 24,
+        "unitatiBeneficiare": 24,
+        "valoareEur": 1900000,
+        "valoareLei": 9500000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 11,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 16000000,
+        "valoareLei": 80000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Satu Mare",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "SJ": {
+    "totalEuro": 39000000,
+    "totalLei": 195000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 53,
+        "valoareEur": 19000000,
+        "valoareLei": 95500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 26,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 4100000,
+        "valoareLei": 20500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 2,
+        "unitatiBeneficiare": 2,
+        "valoareEur": 420000,
+        "valoareLei": 2100000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 16,
+        "unitatiBeneficiare": 16,
+        "valoareEur": 1400000,
+        "valoareLei": 7000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 4,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 7100000,
+        "valoareLei": 35500000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Sălaj",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "SB": {
+    "totalEuro": 106400000,
+    "totalLei": 532400000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 45,
+        "unitatiBeneficiare": 45,
+        "valoareEur": 35000000,
+        "valoareLei": 145000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 40,
+        "unitatiBeneficiare": 40,
+        "valoareEur": 6500000,
+        "valoareLei": 32000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II -a",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 20500000,
+        "valoareLei": 20500000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE/SMART -LAB",
+        "proiecteDepuse": 26,
+        "unitatiBeneficiare": 31,
+        "valoareEur": 2200000,
+        "valoareLei": 10800000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 12,
+        "valoareEur": 100000000,
+        "valoareLei": 100000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din SIBIU",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 24900000,
+        "valoareLei": 123000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR din SIBIU",
+        "valoareEur": 8500000,
+        "valoareLei": 42100000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "SV": {
+    "totalEuro": 156700000,
+    "totalLei": 783500000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 107,
+        "unitatiBeneficiare": 198,
+        "valoareEur": 46000000,
+        "valoareLei": 228000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 15,
+        "unitatiBeneficiare": 15,
+        "valoareEur": 3000000,
+        "valoareLei": 14500000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 22,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 6000000,
+        "valoareLei": 30000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 34,
+        "unitatiBeneficiare": 34,
+        "valoareEur": 3200000,
+        "valoareLei": 16000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 15,
+        "valoareEur": 63000000,
+        "valoareLei": 313000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din SUCEAVA",
+        "proiecteDepuse": 1,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 25000000,
+        "valoareLei": 123000000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚII",
+        "valoareEur": 4700000,
+        "valoareLei": 23000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "TR": {
+    "totalEuro": 41000000,
+    "totalLei": 204000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 94,
+        "valoareEur": 21000000,
+        "valoareLei": 105000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 32,
+        "unitatiBeneficiare": 15,
+        "valoareEur": 3600000,
+        "valoareLei": 18400000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 28,
+        "unitatiBeneficiare": 28,
+        "valoareEur": 5000000,
+        "valoareLei": 25400000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 10,
+        "unitatiBeneficiare": 10,
+        "valoareEur": 1000000,
+        "valoareLei": 5000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 2,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 4800000,
+        "valoareLei": 24000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Teleorman",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 26,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "TM": {
+    "totalEuro": 166000000,
+    "totalLei": 83000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 79,
+        "unitatiBeneficiare": 185,
+        "valoareEur": 40000000,
+        "valoareLei": 19900000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 55,
+        "unitatiBeneficiare": 55,
+        "valoareEur": 8100000,
+        "valoareLei": 40300000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 24,
+        "unitatiBeneficiare": 24,
+        "valoareEur": 5400000,
+        "valoareLei": 27000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 41,
+        "unitatiBeneficiare": 41,
+        "valoareEur": 3700000,
+        "valoareLei": 18000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 14,
+        "valoareEur": 60000000,
+        "valoareLei": 300500000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din TIMIȘ",
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "valoareEur": 24500000,
+        "valoareLei": 122500000
+      },
+      {
+        "numeProiect": "DIGITALIZAREA UNIVERSITĂȚILOR DIN TIMIȘOARA",
+        "proiecteDepuse": 4,
+        "valoareEur": 18000000,
+        "valoareLei": 93000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI ÎN JUDEȚUL TIMIȘ",
+        "valoareEur": 121000,
+        "valoareLei": 600000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "TL": {
+    "totalEuro": 28400000,
+    "totalLei": 142000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 45,
+        "unitatiBeneficiare": 71,
+        "valoareEur": 12200000,
+        "valoareLei": 61200000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 13,
+        "unitatiBeneficiare": 13,
+        "valoareEur": 2000000,
+        "valoareLei": 9700000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 15,
+        "unitatiBeneficiare": 15,
+        "valoareEur": 3200000,
+        "valoareLei": 16000000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 13,
+        "unitatiBeneficiare": 13,
+        "valoareEur": 1000000,
+        "valoareLei": 5300000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 3,
+        "valoareEur": 2700000,
+        "valoareLei": 13700000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din TULCEA",
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "VS": {
+    "totalEuro": 50000000,
+    "totalLei": 254000000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 78,
+        "unitatiBeneficiare": 131,
+        "valoareEur": 20200000,
+        "valoareLei": 101000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 50,
+        "unitatiBeneficiare": 50,
+        "valoareEur": 9000000,
+        "valoareLei": 45000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 18,
+        "unitatiBeneficiare": 18,
+        "valoareEur": 4000000,
+        "valoareLei": 20500000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE / SMART-LAB",
+        "proiecteDepuse": 13,
+        "unitatiBeneficiare": 13,
+        "valoareEur": 1000000,
+        "valoareLei": 5300000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 5,
+        "unitatiBeneficiare": 5,
+        "valoareEur": 8000000,
+        "valoareLei": 38000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din VASLUI",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 24,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în VASLUI",
+        "proiecteDepuse": 3,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 663000,
+        "valoareLei": 3300000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "VL": {
+    "totalEuro": 56200000,
+    "totalLei": 281400000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 50,
+        "valoareEur": 26000000,
+        "valoareLei": 130000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 27,
+        "unitatiBeneficiare": 27,
+        "valoareEur": 3500000,
+        "valoareLei": 17400000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 15,
+        "unitatiBeneficiare": 15,
+        "valoareEur": 2500000,
+        "valoareLei": 12600000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 22,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 2000000,
+        "valoareLei": 10000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 6,
+        "valoareEur": 14800000,
+        "valoareLei": 74400000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din Vâlcea",
+        "proiecteDepuse": 1,
+        "valoareEur": 7000000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "GRĂDINIȚE NOI în Valcea",
+        "proiecteDepuse": 0,
+        "valoareEur": 200000,
+        "valoareLei": 1000000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  },
+  "VN": {
+    "totalEuro": 61800000,
+    "totalLei": 309200000,
+    "investments": [
+      {
+        "numeProiect": "DOTĂRI ÎN ȘCOLI",
+        "proiecteDepuse": 71,
+        "unitatiBeneficiare": 112,
+        "valoareEur": 20800000,
+        "valoareLei": 104000000
+      },
+      {
+        "numeProiect": "PNRAS - Runda I",
+        "proiecteDepuse": 22,
+        "unitatiBeneficiare": 22,
+        "valoareEur": 3400000,
+        "valoareLei": 17100000
+      },
+      {
+        "numeProiect": "PNRAS - Runda a II-a",
+        "proiecteDepuse": 7,
+        "unitatiBeneficiare": 7,
+        "valoareEur": 1500000,
+        "valoareLei": 7600000
+      },
+      {
+        "numeProiect": "LABORATOARE INTELIGENTE",
+        "proiecteDepuse": 17,
+        "unitatiBeneficiare": 17,
+        "valoareEur": 1300000,
+        "valoareLei": 17000000
+      },
+      {
+        "numeProiect": "ȘCOLI VERZI",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 803500,
+        "valoareLei": 4000000
+      },
+      {
+        "numeProiect": "MICROBUZE pentru copiii din VRANCEA",
+        "proiecteDepuse": 1,
+        "unitatiBeneficiare": 24,
+        "valoareEur": 7200000,
+        "valoareLei": 36000000
+      },
+      {
+        "numeProiect": "INVESTIȚII ÎN ÎNVĂȚĂMÂNTUL DUAL",
+        "proiecteDepuse": 0,
+        "unitatiBeneficiare": 0,
+        "valoareEur": 24800000,
+        "valoareLei": 123500000
+      }
+    ],
+    "scope": "județean",
+    "source": "https://pnrr.edu.ro/harta-uat/"
+  }
+}
