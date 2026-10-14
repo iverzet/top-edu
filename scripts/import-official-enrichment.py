@@ -29,8 +29,13 @@ STUDENT_SOURCES = {
 }
 
 BAC_SOURCES = {
+    2026: "https://data.gov.ro/dataset/rezultate_bacalaureat_2026",
     2025: "https://data.gov.ro/dataset/b3af0e55-19ff-4e6c-8b1c-6a715c10cb04",
     2024: "https://data.gov.ro/dataset/c23424d9-2367-44ee-a19f-2405277ed9ec",
+}
+
+EN_SOURCES = {
+    2026: "https://data.gov.ro/dataset/rezultate_evaluare_2026",
 }
 
 COORDINATES_SOURCE = "https://data.gov.ro/dataset/a37f4344-d4fe-40e1-bba7-125e1fea8137"
@@ -155,6 +160,33 @@ def bac_results(path: Path, year: int):
     return result
 
 
+def en_results(path: Path, year: int):
+    frame = pd.read_excel(path, sheet_name="export")
+    frame.columns = [clean(column) for column in frame.columns]
+    required = {"COD SIIIR", "MEDIA"}
+    missing = required - set(frame.columns)
+    if missing:
+        raise ValueError(f"Evaluarea Națională {year}: lipsesc coloanele {sorted(missing)}")
+    result = []
+    for raw_code, rows in frame.groupby("COD SIIIR", dropna=True):
+        siiir = code(raw_code)
+        if not siiir:
+            continue
+        averages = pd.to_numeric(rows["MEDIA"], errors="coerce")
+        valid = averages.dropna()
+        result.append({
+            "siiirCode": siiir,
+            "exam": "Evaluarea Națională",
+            "year": year,
+            "average": round(float(valid.mean()), 2) if not valid.empty else None,
+            "aboveFiveRate": round(float((valid >= 5).mean() * 100), 1) if not valid.empty else None,
+            "candidates": int(len(rows)),
+            "gradedCandidates": int(len(valid)),
+            "source": EN_SOURCES[year],
+        })
+    return result
+
+
 def coordinates(path: Path):
     frame = pd.read_excel(path, sheet_name="Sheet1")
     result = {}
@@ -220,66 +252,84 @@ def pnrr_counties():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--students-current", type=Path, required=True)
+    parser.add_argument("--students-current", type=Path)
     parser.add_argument("--students-previous", type=Path)
     parser.add_argument("--bac", action="append", default=[], metavar="YEAR=FILE")
+    parser.add_argument("--en", action="append", default=[], metavar="YEAR=FILE")
     parser.add_argument("--coordinates", type=Path)
     parser.add_argument("--aracip-evaluated", type=Path)
     parser.add_argument("--skip-pnrr", action="store_true")
     args = parser.parse_args()
 
     schools = read_json(DATA_DIR / "schools.json", [])
-    existing_enrichment = {
-        item["siiirCode"]: item for item in read_json(DATA_DIR / "school-enrichment.json", [])
-    }
-    current = enrollment(args.students_current, "2025-2026", True)
-    previous = enrollment(args.students_previous, "2024-2025", False) if args.students_previous else {}
-    coords = coordinates(args.coordinates) if args.coordinates else {}
-    quality = aracip_evaluations(args.aracip_evaluated, schools) if args.aracip_evaluated else {}
-
-    records = []
     known_codes = {school["siiirCode"] for school in schools}
-    all_codes = sorted((set(current) | set(previous) | set(coords) | set(quality)) & known_codes)
-    for siiir in all_codes:
-        record = {"siiirCode": siiir}
-        for key in ("officialWebsite", "vacanciesUrl", "procurementUrl", "budgetUrl", "admission"):
-            if key in existing_enrichment.get(siiir, {}):
-                record[key] = existing_enrichment[siiir][key]
-        history = []
-        for item in (previous.get(siiir), current.get(siiir)):
-            if item:
-                history.append({
-                    key: item[key] for key in ("schoolYear", "students", "classes", "source") if key in item
-                })
-        if current.get(siiir):
-            record["enrollment"] = current[siiir]
-        if history:
-            record["enrollmentHistory"] = history
-        if coords.get(siiir):
-            record["coordinates"] = coords[siiir]
-        if quality.get(siiir):
-            record["quality"] = quality[siiir]
-        records.append(record)
-    write_json(DATA_DIR / "school-enrichment.json", records)
+    records = read_json(DATA_DIR / "school-enrichment.json", [])
+    current = {}
+    coords = {}
+    if args.students_current:
+        existing_enrichment = {item["siiirCode"]: item for item in records}
+        current = enrollment(args.students_current, "2025-2026", True)
+        previous = enrollment(args.students_previous, "2024-2025", False) if args.students_previous else {}
+        coords = coordinates(args.coordinates) if args.coordinates else {}
+        quality = aracip_evaluations(args.aracip_evaluated, schools) if args.aracip_evaluated else {}
 
-    if not args.skip_pnrr:
-        write_json(DATA_DIR / "county-investments.json", pnrr_counties())
+        records = []
+        all_codes = sorted((set(current) | set(previous) | set(coords) | set(quality)) & known_codes)
+        for siiir in all_codes:
+            record = {"siiirCode": siiir}
+            for key in ("officialWebsite", "vacanciesUrl", "procurementUrl", "budgetUrl", "admission"):
+                if key in existing_enrichment.get(siiir, {}):
+                    record[key] = existing_enrichment[siiir][key]
+            history = []
+            for item in (previous.get(siiir), current.get(siiir)):
+                if item:
+                    history.append({
+                        key: item[key] for key in ("schoolYear", "students", "classes", "source") if key in item
+                    })
+            if current.get(siiir):
+                record["enrollment"] = current[siiir]
+            if history:
+                record["enrollmentHistory"] = history
+            if coords.get(siiir):
+                record["coordinates"] = coords[siiir]
+            if quality.get(siiir):
+                record["quality"] = quality[siiir]
+            records.append(record)
+        write_json(DATA_DIR / "school-enrichment.json", records)
+
+        if not args.skip_pnrr:
+            write_json(DATA_DIR / "county-investments.json", pnrr_counties())
 
     exam_path = DATA_DIR / "exam-results.json"
     existing = read_json(exam_path, [])
-    imported = []
-    imported_years = set()
+    imported_bac = []
+    imported_bac_years = set()
     for value in args.bac:
         year_text, file_text = value.split("=", 1)
         year = int(year_text)
-        imported_years.add(year)
-        imported.extend(bac_results(Path(file_text), year))
+        imported_bac_years.add(year)
+        imported_bac.extend(bac_results(Path(file_text), year))
+    imported_en = []
+    imported_en_years = set()
+    for value in args.en:
+        year_text, file_text = value.split("=", 1)
+        year = int(year_text)
+        imported_en_years.add(year)
+        imported_en.extend(en_results(Path(file_text), year))
+    imported = [row for row in imported_bac + imported_en if row["siiirCode"] in known_codes]
     if imported:
-        kept = [r for r in existing if not (r.get("exam") == "Bacalaureat" and r.get("year") in imported_years)]
+        kept = [
+            row for row in existing
+            if not (
+                (row.get("exam") == "Bacalaureat" and row.get("year") in imported_bac_years)
+                or (row.get("exam") == "Evaluarea Națională" and row.get("year") in imported_en_years)
+            )
+        ]
         write_json(exam_path, sorted(kept + imported, key=lambda r: (r["siiirCode"], r["exam"], -r["year"])))
 
     print(f"Îmbogățire: {len(records)} unități; înscrieri curente: {len(current)}; coordonate: {len(coords)}")
-    print(f"BAC importat: {len(imported)} înregistrări")
+    print(f"BAC importat: {len([r for r in imported if r['exam'] == 'Bacalaureat'])} înregistrări")
+    print(f"EN importat: {len([r for r in imported if r['exam'] == 'Evaluarea Națională'])} înregistrări")
 
 
 if __name__ == "__main__":

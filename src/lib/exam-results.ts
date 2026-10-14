@@ -6,7 +6,9 @@ export type ExamResult = {
   year: number;
   average?: number | null;
   passRate?: number | null;
+  aboveFiveRate?: number | null;
   candidates?: number;
+  gradedCandidates?: number;
   source: string;
   session?: string;
 };

@@ -9,6 +9,8 @@ import {
 import { getSchool } from "@/lib/schools";
 import { getExamResults } from "@/lib/exam-results";
 import { getCountyInvestment, getSchoolEnrichment } from "@/lib/school-enrichment";
+import { getVerifiedSchoolImage } from "@/lib/school-images";
+import { profileVariantLabels, profileVariantPresentation, resolveProfileVariant } from "@/lib/profile-variants";
 
 export const dynamicParams = true;
 const numberFormatter = new Intl.NumberFormat("ro-RO");
@@ -19,10 +21,12 @@ const formatClasses = (value?: number) => value === undefined ? "—" : value.to
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const school = getSchool((await params).slug);
   if (!school) return { title: "Școală negăsită", robots: { index: false, follow: false } };
-  const students = getSchoolEnrichment(school.siiirCode)?.enrollment?.students;
+  const enrichment = getSchoolEnrichment(school.siiirCode);
+  const students = enrichment?.enrollment?.students;
+  const categoryLabel = profileVariantLabels[resolveProfileVariant(school, enrichment)];
   const description = students
-    ? `${school.name} din ${school.city}: ${formatNumber(students)} elevi, rezultate la examene, ofertă educațională și date oficiale.`
-    : `${school.name}, ${school.city}, județul ${school.county}. Date publice verificate și cod SIIIR.`;
+    ? `${school.name} din ${school.city}: profil ${categoryLabel.toLowerCase()}, ${formatNumber(students)} elevi, rezultate și date oficiale.`
+    : `${school.name}, ${school.city}: profil ${categoryLabel.toLowerCase()}, date publice verificate și cod SIIIR.`;
   return {
     title: `${school.name} — date, rezultate și profil`, description,
     alternates: { canonical: `/scoli/${school.slug}` },
@@ -37,6 +41,12 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
   const examResults = getExamResults(school.siiirCode);
   const enrichment = getSchoolEnrichment(school.siiirCode);
   const enrollment = enrichment?.enrollment;
+  const profileKind = resolveProfileVariant(school, enrichment);
+  const category = profileVariantPresentation[profileKind];
+  const categoryLabel = profileVariantLabels[profileKind];
+  const verifiedImage = getVerifiedSchoolImage(school.siiirCode);
+  const profileImage = verifiedImage?.imageUrl ?? (school.image && !school.image.includes("placeholder") ? school.image : category.image);
+  const profileImageAlt = verifiedImage?.alt ?? `${category.imageAlt}: ${school.name}`;
   const history = enrichment?.enrollmentHistory ?? [];
   const coordinates = enrichment?.coordinates;
   const quality = enrichment?.quality;
@@ -59,7 +69,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
 
   return (
     <>
-      <main>
+      <main className={`school-profile-page kind-${profileKind}`} data-profile-kind={profileKind}>
         <header className="site-header">
           <Link className="brand" href="/" aria-label="Top Edu — pagina principală">
             <span className="brand-mark" aria-hidden="true"><span /><span /><span /></span>
@@ -70,19 +80,27 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
         </header>
 
         <section className="profile-hero">
-          <div className="profile-photo"><Image src={school.image || "/school-placeholder.svg"} alt={`Imagine reprezentativă pentru ${school.name}`} fill priority sizes="(max-width: 900px) 100vw, 48vw" /></div>
+          <div className="profile-photo">
+            <Image src={profileImage} alt={profileImageAlt} fill priority sizes="(max-width: 900px) 100vw, 48vw" />
+            {verifiedImage ? (
+              <a className="illustrative-note photo-attribution" href={verifiedImage.sourceUrl} target="_blank" rel="noreferrer">
+                Foto reală · {verifiedImage.author} · {verifiedImage.license}
+              </a>
+            ) : <span className="illustrative-note">Imagine ilustrativă</span>}
+          </div>
           <div className="profile-intro">
             <Link className="back-link" href="/#director">← Înapoi la școli</Link>
-            <p className="kicker"><Sparkles aria-hidden="true" /> {school.type}</p>
+            <p className="kicker"><Sparkles aria-hidden="true" /> {category.eyebrow}</p>
             <h1>{school.name}</h1>
             <p className="profile-location"><MapPin aria-hidden="true" /> {school.city} · {school.county}</p>
-            <span className="demo-badge"><ShieldCheck aria-hidden="true" /> Rețea oficială 2025–2026</span>
+            <div className="profile-badges"><span className="category-badge">{categoryLabel}</span><span className="demo-badge"><ShieldCheck aria-hidden="true" /> Rețea oficială 2025–2026</span></div>
+            <p className="profile-category-copy">{category.description}</p>
           </div>
         </section>
 
         <section className="profile-metrics" aria-label="Indicatori principali">
-          <div><Users aria-hidden="true" /><strong>{formatNumber(currentStudents)}</strong><span>elevi · {enrollment?.schoolYear ?? "date indisponibile"}</span></div>
-          <div><School aria-hidden="true" /><strong>{formatClasses(enrollment?.classes)}</strong><span>clase / formațiuni</span></div>
+          <div><Users aria-hidden="true" /><strong>{formatNumber(currentStudents)}</strong><span>{category.populationLabel} · {enrollment?.schoolYear ?? "date indisponibile"}</span></div>
+          <div><School aria-hidden="true" /><strong>{formatClasses(enrollment?.classes)}</strong><span>{category.groupLabel}</span></div>
           <div><GraduationCap aria-hidden="true" /><strong>{examResults.length}</strong><span>rezultate oficiale publicate</span></div>
           <div><Building2 aria-hidden="true" /><strong>{school.ownership}</strong><span>tip de proprietate</span></div>
         </section>
@@ -96,6 +114,11 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
             <section className="content-card" id="prezentare">
               <p className="kicker">Despre unitate</p><h2>O imagine clară, din surse publice</h2><p>{school.description}</p>
               {studentChange !== undefined && <div className={`trend-note ${studentChange >= 0 ? "positive" : "negative"}`}><TrendingUp aria-hidden="true" /><span><strong>{studentChange >= 0 ? "+" : ""}{formatNumber(studentChange)} elevi</strong> față de anul școlar 2024–2025</span></div>}
+            </section>
+
+            <section className="content-card category-focus-card">
+              <p className="kicker">Profil {categoryLabel.toLowerCase()}</p><h2>{category.focusTitle}</h2>
+              <div className="category-focus-grid">{category.focusItems.map((item, index) => <div key={item}><span>{String(index + 1).padStart(2, "0")}</span><strong>{item}</strong></div>)}</div>
             </section>
 
             {enrollment && <section className="content-card" id="elevi">
@@ -116,7 +139,10 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
               <p className="kicker">Performanță școlară</p><h2>Rezultate la examenele naționale</h2><p className="card-intro">Indicatorii sunt calculați din înregistrările anonimizate publicate de Ministerul Educației.</p>
               <div className="exam-results-grid">{examResults.map((result) => <div className="exam-result" key={`${result.exam}-${result.year}`}>
                 <span className="exam-year">{result.year}{result.session ? ` · ${result.session}` : ""}</span><strong>{result.exam}</strong>
-                {result.average != null && <b>{result.average.toFixed(2).replace(".", ",")} <small>medie</small></b>}{result.passRate != null && <span>{result.passRate.toLocaleString("ro-RO")}% promovare</span>}{result.candidates !== undefined && <span>{formatNumber(result.candidates)} candidați</span>}
+                {result.average != null && <b>{result.average.toFixed(2).replace(".", ",")} <small>medie</small></b>}
+                {result.exam === "Evaluarea Națională" && (result.aboveFiveRate ?? result.passRate) != null && <span>{(result.aboveFiveRate ?? result.passRate)!.toLocaleString("ro-RO")}% medii ≥ 5</span>}
+                {result.exam === "Bacalaureat" && result.passRate != null && <span>{result.passRate.toLocaleString("ro-RO")}% promovare</span>}
+                {result.candidates !== undefined && <span>{formatNumber(result.candidates)} candidați{result.gradedCandidates !== undefined && result.gradedCandidates !== result.candidates ? ` · ${formatNumber(result.gradedCandidates)} cu medie` : ""}</span>}
                 <a href={result.source} target="_blank" rel="noreferrer">Sursa oficială <ArrowUpRight /></a>
               </div>)}</div>
             </section>}
