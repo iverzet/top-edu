@@ -9,6 +9,7 @@ import {
 import { getSchool } from "@/lib/schools";
 import { getExamResults } from "@/lib/exam-results";
 import { getCountyInvestment, getSchoolEnrichment } from "@/lib/school-enrichment";
+import { getAracipStatus } from "@/lib/aracip";
 import { getVerifiedSchoolImage } from "@/lib/school-images";
 import { profileVariantLabels, profileVariantPresentation, resolveProfileVariant } from "@/lib/profile-variants";
 
@@ -40,6 +41,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
 
   const examResults = getExamResults(school.siiirCode);
   const enrichment = getSchoolEnrichment(school.siiirCode);
+  const aracipStatus = getAracipStatus(school.siiirCode);
   const enrollment = enrichment?.enrollment;
   const profileKind = resolveProfileVariant(school, enrichment);
   const category = profileVariantPresentation[profileKind];
@@ -49,7 +51,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
   const profileImageAlt = verifiedImage?.alt ?? `${category.imageAlt}: ${school.name}`;
   const history = enrichment?.enrollmentHistory ?? [];
   const coordinates = enrichment?.coordinates;
-  const quality = enrichment?.quality;
+  const quality = aracipStatus ?? enrichment?.quality;
   const countyInvestment = getCountyInvestment(school.county);
   const mapUrl = coordinates
     ? `https://www.openstreetmap.org/?mlat=${coordinates.latitude}&mlon=${coordinates.longitude}#map=17/${coordinates.latitude}/${coordinates.longitude}`
@@ -148,7 +150,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
             </section>}
 
             {quality && <section className="content-card quality-card" id="calitate"><div className="quality-icon"><ShieldCheck aria-hidden="true" /></div><div>
-              <p className="kicker">Registrul ARACIP</p><h2>Evaluare externă periodică</h2>
+              <p className="kicker">Registrul ARACIP</p><h2>{"registerType" in quality && quality.registerType === "acreditata" ? "Unitate acreditată" : "Evaluare externă periodică"}</h2>
               {quality.lastExternalEvaluation && <p>Ultima evaluare identificată în registru: <strong>{quality.lastExternalEvaluation.replace(".0", "")}</strong>.</p>}
               {quality.nextEvaluationSchoolYear && <p>Anul indicat în registru pentru următoarea evaluare: <strong>{quality.nextEvaluationSchoolYear}</strong>.</p>}
               <a className="source-link" href={quality.source} target="_blank" rel="noreferrer">Consultă registrul ARACIP <ArrowUpRight /></a>
