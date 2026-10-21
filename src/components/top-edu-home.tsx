@@ -3,17 +3,16 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import { schools as officialSchools } from '@/lib/schools'
+import type { School } from '@/lib/schools'
 import { ArrowDownRight, ArrowRight, MapPin, Search, Sparkles } from 'lucide-react'
 
-const schools = officialSchools
-
-export function TopEduHome() {
+export function TopEduHome({ featured, searchable }: { featured: School[]; searchable: School[] }) {
+  const schools = featured
   const [query, setQuery] = useState('')
   const [activeTab, setActiveTab] = useState('Prezentare')
   const [showResults, setShowResults] = useState(false)
   const normalizedQuery = query.trim().toLocaleLowerCase('ro-RO')
-  const results = normalizedQuery ? schools.filter((school) => [school.name, school.city, school.county].join(' ').toLocaleLowerCase('ro-RO').includes(normalizedQuery)).slice(0, 6) : []
+  const results = normalizedQuery ? searchable.filter((school) => [school.name, school.city, school.county].join(' ').toLocaleLowerCase('ro-RO').includes(normalizedQuery)).slice(0, 6) : []
 
   const handleSearch = (value = query) => {
     setQuery(value)
@@ -58,7 +57,7 @@ export function TopEduHome() {
         </section>
 
         <section className="featured-section" id="scoli">
-          <div className="section-heading"><div><span className="section-kicker">DESCOPERĂ</span><h2>Școli care <em>inspiră.</em></h2></div><a href="#date">Vezi toate școlile <ArrowRight /></a></div>
+          <div className="section-heading"><div><span className="section-kicker">DATE + IMAGINE VERIFICATĂ</span><h2>Școli cu profil <em>complet.</em></h2></div><a href="#date">Vezi metodologia <ArrowRight /></a></div>
           <div className="school-grid">{schools.slice(0, 3).map((school, index) => <article className="school-card" key={school.slug}>
             <div className="school-photo"><Image src={school.image || '/school-placeholder.svg'} alt={`Clădirea ${school.name}`} fill sizes="(max-width: 800px) 100vw, 33vw" /><span className={`photo-dot ${['coral', 'mint', 'yellow'][index]}`} /></div>
             <div className="school-content"><div className="school-meta"><span>{school.ownership}</span><span><MapPin /> {school.city}, {school.county}</span></div><h3>{school.name}</h3><div className="school-stats"><div><strong>{school.status}</strong><span>status</span></div><div><strong>{school.siiirCode}</strong><span>cod SIIIR</span></div><Link href={`/scoli/${school.slug}`} aria-label={`Vezi profilul ${school.name}`}><ArrowDownRight /></Link></div></div>

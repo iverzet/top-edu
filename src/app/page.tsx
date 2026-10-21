@@ -1,7 +1,9 @@
 import { TopEduHome } from "@/components/top-edu-home";
+import { getHomepageSchools } from "@/lib/homepage";
 
 export default function Home() {
-  return <TopEduHome />;
+  const homepageSchools = getHomepageSchools();
+  return <TopEduHome {...homepageSchools} />;
   /* return (
     <main>
       <div className="announcement">Nou: datele financiare 2026 intră în procesare în această lună. <a href="#date-in-pregatire">Află mai multe</a></div>
