@@ -1,0 +1,663 @@
+[
+  {
+    "siiirCode": "0362107017",
+    "schoolName": "CREȘA NR.7 TUDOR VLADIMIRESCU",
+    "sourceUrl": "https://cresa-pitesti.ro/cresa-nr-7-tudor-vladimirescu/",
+    "sourceDomain": "cresa-pitesti.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0372 396 021 / 0728 053 441",
+    "email": "crese@cresa-pitesti.ro"
+  },
+  {
+    "siiirCode": "0362107044",
+    "schoolName": "CREȘA NR.11 NEGRU VODĂ",
+    "sourceUrl": "https://cresa-pitesti.ro/cresa-nr-11-negru-voda/",
+    "sourceDomain": "cresa-pitesti.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0372 396 021 / 0728 053 441",
+    "email": "crese@cresa-pitesti.ro"
+  },
+  {
+    "siiirCode": "0362107053",
+    "schoolName": "CREȘA NR.14 BANAT",
+    "sourceUrl": "https://cresa-pitesti.ro/cresa-nr-14-banat/",
+    "sourceDomain": "cresa-pitesti.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0372 396 021 / 0728 053 441",
+    "email": "crese@cresa-pitesti.ro"
+  },
+  {
+    "siiirCode": "0362107062",
+    "schoolName": "CREȘA NR.18 PRUNDU",
+    "sourceUrl": "https://cresa-pitesti.ro/cresa-nr-18-prundu/",
+    "sourceDomain": "cresa-pitesti.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0372 396 021 / 0728 053 441",
+    "email": "crese@cresa-pitesti.ro"
+  },
+  {
+    "siiirCode": "0362107071",
+    "schoolName": "CREȘA NR.19 ARPECHIM",
+    "sourceUrl": "https://cresa-pitesti.ro/cresa-nr-19-arpechim/",
+    "sourceDomain": "cresa-pitesti.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0372 396 021 / 0728 053 441",
+    "email": "crese@cresa-pitesti.ro"
+  },
+  {
+    "siiirCode": "0362107089",
+    "schoolName": "CREȘA POPA ȘAPCĂ",
+    "sourceUrl": "https://cresa-pitesti.ro/cresa-popa-sapca/",
+    "sourceDomain": "cresa-pitesti.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0372 396 021 / 0728 053 441",
+    "email": "crese@cresa-pitesti.ro"
+  },
+  {
+    "siiirCode": "0462107807",
+    "schoolName": "ŞCOALA GIMNAZIALĂ NR 22 BACĂU",
+    "sourceUrl": "https://scoalaeco.ro/bc/scoala-gimnaziala-nr-22-bacau/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "email": "scoala22bacau@yahoo.com"
+  },
+  {
+    "siiirCode": "0562109599",
+    "schoolName": "CENTRUL ȘCOLAR DE EDUCAȚIE INCLUZIVĂ „BONITAS\" VALEA LUI MIHAI",
+    "sourceUrl": "https://scoala-bonitas-iskola.ro/ro/despre-noi/",
+    "sourceDomain": "scoala-bonitas-iskola.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0359 178791",
+    "email": "contact@scoala-bonitas-iskola.ro"
+  },
+  {
+    "siiirCode": "2062103745",
+    "schoolName": "CREȘA NR. 2 DEVA MAGHIARA",
+    "sourceUrl": "https://www.primariadeva.ro/index.php/servicii_publice/cresa",
+    "sourceDomain": "primariadeva.ro",
+    "sourceType": "autoritate_publica",
+    "confidence": "candidate",
+    "phone": "0254 268 845, Mobil: 0766 676 067",
+    "email": "cresadeva@yahoo.com"
+  },
+  {
+    "siiirCode": "2262100807",
+    "schoolName": "ȘCOALA PRIMARĂ, GĂNEŞTI",
+    "sourceUrl": "https://scoalaeco.ro/ms/scoala-primara-seuca/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "phone": "0265586150",
+    "email": "scoalaseuca@yahoo.com"
+  },
+  {
+    "siiirCode": "2262102307",
+    "schoolName": "ȘCOALA PRIMARĂ NR. 2, MOGOŞEŞTI",
+    "sourceUrl": "https://scoalaeco.ro/is/scoala-primara-nr-2-mogosesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "phone": "0232294281"
+  },
+  {
+    "siiirCode": "2262103493",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, COSTULENI",
+    "sourceUrl": "https://scoalaeco.ro/is/gradinita-cu-program-normal-costuleni/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "phone": "0232291543"
+  },
+  {
+    "siiirCode": "2262103516",
+    "schoolName": "ȘCOALA PRIMARĂ, HILIŢA",
+    "sourceUrl": "https://scoalaeco.ro/is/scoala-primara-hilita/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "phone": "0232291543"
+  },
+  {
+    "siiirCode": "2262103751",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, CHICEREA",
+    "sourceUrl": "https://scoalaeco.ro/is/gradinita-cu-program-normal-chicerea/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "email": "chicereascoala@yahoo.com"
+  },
+  {
+    "siiirCode": "2262103796",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, REDIU",
+    "sourceUrl": "https://scoalaeco.ro/is/gradinita-cu-program-normal-rediu/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "phone": "0232270583",
+    "email": "rediu_school@yahoo.com"
+  },
+  {
+    "siiirCode": "2262107574",
+    "schoolName": "CREȘA \"MUNICIPALĂ\", IAȘI",
+    "sourceUrl": "https://cresamunicipiuluiiasisfantamaria.ro/crese/",
+    "sourceDomain": "cresamunicipiuluiiasisfantamaria.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0232435898",
+    "email": "cresamunicipala@gmail.com"
+  },
+  {
+    "siiirCode": "2262107669",
+    "schoolName": "CREȘA \"PITICOT\", IAȘI",
+    "sourceUrl": "https://www.clubulcopiilor.ro/locatie/cresa-numarul-19-piticot/",
+    "sourceDomain": "clubulcopiilor.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "(0232) 234 760"
+  },
+  {
+    "siiirCode": "2662108967",
+    "schoolName": "CREȘA „UNIVERSUL PRICHINDEILOR” REGHIN",
+    "sourceUrl": "https://gradinitapp4reghin.ro/cresa-universul-prichindeilor/",
+    "sourceDomain": "gradinitapp4reghin.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "email": "gradinitapp4_reghin@yahoo.com"
+  },
+  {
+    "siiirCode": "2662109086",
+    "schoolName": "CREȘA TÂRNĂVENI",
+    "sourceUrl": "https://primaria.info.ro/ms/tarnaveni",
+    "sourceDomain": "primaria.info.ro",
+    "sourceType": "autoritate_publica",
+    "confidence": "candidate",
+    "email": "office.91e97@c01.primariatarnaveni.ro"
+  },
+  {
+    "siiirCode": "2662209315",
+    "schoolName": "CREȘA MONTESSORI TÎRGU MUREȘ",
+    "sourceUrl": "https://montessorimures.ro/contact/",
+    "sourceDomain": "montessorimures.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0758 633 664",
+    "email": "crestem@montessorimures.ro"
+  },
+  {
+    "siiirCode": "3462104145",
+    "schoolName": "CREȘA DE COPII ROȘIORI DE VEDE",
+    "sourceUrl": "https://zahariastancurosiori.ro/index.php/scoala-noastra/gradinita-cu-program-normal-nr-8",
+    "sourceDomain": "zahariastancurosiori.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "+40 247 466 149"
+  },
+  {
+    "siiirCode": "3562107151",
+    "schoolName": "CREȘA NR.4 TIMIȘOARA",
+    "sourceUrl": "https://scoala6tm.ro/cresa-sanziana/",
+    "sourceDomain": "scoala6tm.ro",
+    "sourceType": "site_public_candidat",
+    "confidence": "candidate",
+    "phone": "0256 45.66.22",
+    "email": "scoala_nr6_tm@yahoo.com"
+  },
+  {
+    "siiirCode": "3762100195",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT POIENEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-poienesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Poienești, Vaslui"
+  },
+  {
+    "siiirCode": "3762100254",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT MOARA DOMNEASCĂ",
+    "sourceUrl": "http://scolionline.ro/scoala/vaslui/valeni/gradinita-cu-program-normal-sat-moara-domneasca",
+    "sourceDomain": "scolionline.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "MOARA DOMNEASCĂ, VS"
+  },
+  {
+    "siiirCode": "3762100394",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT CHIȚOC",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-chitoc/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Chițoc, Vaslui"
+  },
+  {
+    "siiirCode": "3762100426",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT FUNDU-VĂII",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-fundu-vaii/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Fundu-Văii, Vaslui"
+  },
+  {
+    "siiirCode": "3762100444",
+    "schoolName": "ȘCOALA GIMNAZIALĂ, SAT FUNDU-VĂII",
+    "sourceUrl": "https://orasul.vostru.ro/scoala/scoala-gimnaziala-sat-fundu-vaii-vs",
+    "sourceDomain": "orasul.vostru.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "Fundu Văii, jud. Vaslui"
+  },
+  {
+    "siiirCode": "3762100453",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT LIPOVĂȚ",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-lipovat/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Lipovăț, Vaslui"
+  },
+  {
+    "siiirCode": "3762100462",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT CĂPUȘNENI",
+    "sourceUrl": "http://scolionline.ro/scoala/vaslui/lipovat/scoala-primara-sat-capusneni",
+    "sourceDomain": "scolionline.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "CĂPUŞNENI, VS"
+  },
+  {
+    "siiirCode": "3762100503",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT FLOREȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-floresti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Florești, Vaslui"
+  },
+  {
+    "siiirCode": "3762100566",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT TĂCUTA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-tacuta/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Tăcuta, Vaslui"
+  },
+  {
+    "siiirCode": "3762100584",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT FOCȘEASCA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-focseasca/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Focșeasca, Vaslui"
+  },
+  {
+    "siiirCode": "3762100634",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT DUMASCA",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-dumasca/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Dumasca, Vaslui"
+  },
+  {
+    "siiirCode": "3762100842",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT SOLEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-solesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Solești, Vaslui"
+  },
+  {
+    "siiirCode": "3762101499",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT CHIRCEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-chircesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Chircești, Vaslui"
+  },
+  {
+    "siiirCode": "3762101531",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT LUPEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-lupesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Lupești, Vaslui"
+  },
+  {
+    "siiirCode": "3762101576",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT ȚUȚCANI",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-tutcani/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Țuțcani, Vaslui"
+  },
+  {
+    "siiirCode": "3762101739",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT PUNTIȘENI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-puntiseni/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Puntișeni, Vaslui"
+  },
+  {
+    "siiirCode": "3762102116",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT BĂLTĂȚENI",
+    "sourceUrl": "http://scolionline.ro/scoala/vaslui/bacani/scoala-primara-sat-baltateni",
+    "sourceDomain": "scolionline.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "BĂLTĂȚENI, VS"
+  },
+  {
+    "siiirCode": "3762102152",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT SUSENI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-suseni/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Suseni, Vaslui"
+  },
+  {
+    "siiirCode": "3762102211",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT RAIU",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-raiu/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Raiu, Vaslui"
+  },
+  {
+    "siiirCode": "3762102229",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT CÂRJA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-carja/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Cârja, Vaslui"
+  },
+  {
+    "siiirCode": "3762102238",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT SĂRĂȚENI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-sarateni/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Sărățeni, Vaslui"
+  },
+  {
+    "siiirCode": "3762102247",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT CÂRJA",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-carja/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Cârja, Vaslui"
+  },
+  {
+    "siiirCode": "3762102871",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT URSOAIA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-ursoaia/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Ursoaia, Vaslui"
+  },
+  {
+    "siiirCode": "3762102957",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT COȘEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-cosesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Coșești, Vaslui"
+  },
+  {
+    "siiirCode": "3762102984",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL NR. 1, SAT IVEȘTI",
+    "sourceUrl": "http://scolionline.ro/scoala/vaslui/ivesti/gradinita-cu-program-normal-nr-1-sat-ivesti",
+    "sourceDomain": "scolionline.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "IVEŞTI, VS"
+  },
+  {
+    "siiirCode": "3762103162",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT GHERGHEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-gherghesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Gherghești, Vaslui"
+  },
+  {
+    "siiirCode": "3762103198",
+    "schoolName": "ȘCOALA GIMNAZIALĂ, SAT CHETROSU",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-gimnaziala-sat-chetrosu/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Chetrosu, Vaslui"
+  },
+  {
+    "siiirCode": "3762103212",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT CHETROSU",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-chetrosu/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Chetrosu, Vaslui"
+  },
+  {
+    "siiirCode": "3762103266",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT RÂNZEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-ranzesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Rânzești, Vaslui"
+  },
+  {
+    "siiirCode": "3762103316",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT BOGDĂNEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-bogdanesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Bogdănești, Vaslui"
+  },
+  {
+    "siiirCode": "3762103334",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT COPĂCEANA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-copaceana/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Copăceana, Vaslui"
+  },
+  {
+    "siiirCode": "3762103352",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT DOAGELE",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-doagele/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Doagele, Vaslui"
+  },
+  {
+    "siiirCode": "3762103388",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT BELZENI",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-belzeni/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Belzeni, Vaslui"
+  },
+  {
+    "siiirCode": "3762103397",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT DRAGOMIREȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-dragomiresti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Dragomirești, Vaslui"
+  },
+  {
+    "siiirCode": "3762103402",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT VLADIA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-vladia/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Vladia, Vaslui"
+  },
+  {
+    "siiirCode": "3762103429",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT DRAGOMIREȘTI",
+    "sourceUrl": "http://scolionline.ro/scoala/vaslui/vladia/scoala-primara-sat-dragomiresti",
+    "sourceDomain": "scolionline.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "DRAGOMIREŞTI, VS"
+  },
+  {
+    "siiirCode": "3762103438",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT BELZENI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-belzeni/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Belzeni, Vaslui"
+  },
+  {
+    "siiirCode": "3762103456",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT GRĂJDENI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-grajdeni/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Grăjdeni, Vaslui"
+  },
+  {
+    "siiirCode": "3762103465",
+    "schoolName": "ȘCOALA GIMNAZIALĂ, SAT GRĂJDENI",
+    "sourceUrl": "https://infotescu.ro/scoli-vaslui/scoala-gimnaziala-sat-grajdeni/",
+    "sourceDomain": "infotescu.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "GRĂJDENI, judetul Vaslui"
+  },
+  {
+    "siiirCode": "3762104077",
+    "schoolName": "ȘCOALA PRIMARĂ, SAT CRASNA",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-primara-sat-crasna/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Crasna, Vaslui"
+  },
+  {
+    "siiirCode": "3762104086",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT CORNI-ALBEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-corni-albesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Corni-Albești, Vaslui"
+  },
+  {
+    "siiirCode": "3762105553",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT DUDA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-duda/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Duda, Vaslui"
+  },
+  {
+    "siiirCode": "3762105571",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT VALEA GRECULUI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-valea-grecului/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Valea Grecului, Vaslui"
+  },
+  {
+    "siiirCode": "3762105598",
+    "schoolName": "ȘCOALA GIMNAZIALĂ \"NICOLAE POPA\", SAT VALEA GRECULUI",
+    "sourceUrl": "https://scoalaeco.ro/vs/scoala-gimnaziala-nicolae-popa-sat-valea-grecului/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Valea Grecului, Vaslui"
+  },
+  {
+    "siiirCode": "3762105693",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT SIMILA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-simila/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Simila, Vaslui"
+  },
+  {
+    "siiirCode": "3762106346",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT BLĂGEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-blagesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Blăgești, Vaslui"
+  },
+  {
+    "siiirCode": "3762106477",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL NR. 1, SAT CODĂEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-nr-1-sat-codaesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Codăești, Vaslui"
+  },
+  {
+    "siiirCode": "3762107279",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT EMIL RACOVIȚĂ",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-emil-racovita/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Emil Racoviță, Vaslui"
+  },
+  {
+    "siiirCode": "3762107302",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT BEREASA",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-bereasa/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Bereasa, Vaslui"
+  },
+  {
+    "siiirCode": "3762107329",
+    "schoolName": "GRĂDINIȚA CU PROGRAM NORMAL, SAT DĂNEȘTI",
+    "sourceUrl": "https://scoalaeco.ro/vs/gradinita-cu-program-normal-sat-danesti/",
+    "sourceDomain": "scoalaeco.ro",
+    "sourceType": "director_educational",
+    "confidence": "candidate",
+    "address": "sat Dănești, Vaslui"
+  }
+]

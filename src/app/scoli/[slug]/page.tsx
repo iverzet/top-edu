@@ -55,6 +55,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
   const coordinates = enrichment?.coordinates;
   const quality = aracipStatus ?? enrichment?.quality;
   const schoolInvestments = getSchoolInvestments(school.siiirCode);
+  const secondaryContact = school.secondaryContact;
   const mapUrl = coordinates
     ? `https://www.openstreetmap.org/?mlat=${coordinates.latitude}&mlon=${coordinates.longitude}#map=17/${coordinates.latitude}/${coordinates.longitude}`
     : undefined;
@@ -165,7 +166,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
           </article>
 
           <aside>
-            <section className="facts-card"><h2>Date oficiale</h2><dl>
+            <section className="facts-card"><h2>{secondaryContact ? "Date publice de contact" : "Date oficiale"}</h2>{secondaryContact && <p className="card-intro">Contact completat dintr-o sursă publică secundară; verificarea oficială rămâne în curs.</p>}<dl>
               <div><dt>Niveluri</dt><dd>{enrollment?.levels?.join(", ") || school.levels}</dd></div><div><dt>Proprietate</dt><dd>{school.ownership}</dd></div><div><dt>Localitate</dt><dd>{school.city}</dd></div><div><dt>Județ</dt><dd>{school.county}</dd></div><div><dt>Adresă</dt><dd>{school.address || "Nu este publicată"}</dd></div><div><dt>Telefon</dt><dd>{school.phone ? <a href={`tel:${school.phone}`}>{school.phone}</a> : "Nu este publicat"}</dd></div><div><dt>Email</dt><dd>{school.email ? <a href={`mailto:${school.email}`}>{school.email}</a> : "Nu este publicat"}</dd></div><div><dt>Cod SIIIR</dt><dd>{school.siiirCode}</dd></div>
             </dl>{mapUrl && <a className="map-button" href={mapUrl} target="_blank" rel="noreferrer"><MapPin /> Vezi pe hartă <ExternalLink /></a>}</section>
 
@@ -175,6 +176,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
               <a href={SCHOOL_NETWORK_SOURCE} target="_blank" rel="noreferrer">Rețeaua școlară <ArrowUpRight /></a>{enrollment && <a href={enrollment.source} target="_blank" rel="noreferrer">Elevi și clase <ArrowUpRight /></a>}{quality && <a href={quality.source} target="_blank" rel="noreferrer">Registrul ARACIP <ArrowUpRight /></a>}{coordinates && <a href={coordinates.source} target="_blank" rel="noreferrer">Coordonate școli <ArrowUpRight /></a>}
               <a href={AFIR_BENEFICIARIES_SOURCE} target="_blank" rel="noreferrer">AFIR · date deschise FEADR/PNDR <ArrowUpRight /></a>
               {enrichment?.officialWebsite && <a href={enrichment.officialWebsite} target="_blank" rel="noreferrer">Site-ul oficial al școlii <ArrowUpRight /></a>}
+              {secondaryContact && <a href={secondaryContact.sourceUrl} target="_blank" rel="noreferrer">Sursa secundară pentru contact <ArrowUpRight /></a>}
               {enrichment?.procurementUrl && <a href={enrichment.procurementUrl} target="_blank" rel="noreferrer">Achizițiile acestei unități <ArrowUpRight /></a>}
               {enrichment?.budgetUrl && <a href={enrichment.budgetUrl} target="_blank" rel="noreferrer">Buget și execuție <ArrowUpRight /></a>}
               {enrichment?.vacanciesUrl && <a href={enrichment.vacanciesUrl} target="_blank" rel="noreferrer">Posturi disponibile <ArrowUpRight /></a>}
