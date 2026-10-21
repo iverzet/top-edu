@@ -39,6 +39,7 @@ PNRAS_SOURCE = (
     "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/"
     "PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
 )
+AFIR_FEADR_2024_SOURCE = "https://www.afir.ro/media/pbxc3rwz/listaplati_2024_feadr_actualizata.xlsx"
 
 COUNTIES = {
     "AB": "ALBA", "AR": "ARAD", "AG": "ARGES", "BC": "BACAU", "BH": "BIHOR",
@@ -169,14 +170,57 @@ def pnras_records(path: Path, prepared: list[tuple[str, str, dict]]) -> list[dic
     return records
 
 
+def parse_amount(value: object) -> float | None:
+    raw = clean(value).replace(".", "").replace(",", ".")
+    try:
+        amount = float(raw)
+    except ValueError:
+        return None
+    return amount if amount > 0 else None
+
+
+def afir_feadr_records(path: Path, prepared: list[tuple[str, str, dict]]) -> list[dict]:
+    """Read the official AFIR 2024 FEADR payments workbook.
+
+    The workbook contains hundreds of thousands of beneficiaries.  We accept
+    only an exact normalized school-name match and old PNDR measures (``M``),
+    never a commune/county beneficiary.  This is intentionally conservative.
+    """
+    from openpyxl import load_workbook
+
+    school_by_name = {name: school for name, _county, school in prepared}
+    records = []
+    sheet = load_workbook(path, read_only=True, data_only=True).active
+    for row in sheet.iter_rows(min_row=11, values_only=True):
+        if len(row) < 12:
+            continue
+        school = school_by_name.get(norm(row[0]))
+        measure = clean(row[4])
+        amount = parse_amount(row[11])
+        if not school or not measure.startswith("M ") or not amount:
+            continue
+        records.append({
+            "siiirCode": school_code(school["siiirCode"]),
+            "program": "PNDR",
+            "title": f"PNDR — {measure}",
+            "beneficiary": clean(school["name"]),
+            "status": "plată FEADR identificată în 2024",
+            "year": "2024",
+            "amountLei": round(amount, 2),
+            "source": AFIR_FEADR_2024_SOURCE,
+        })
+    return records
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--smartlabs", type=Path)
     parser.add_argument("--pnras", type=Path)
+    parser.add_argument("--afir-feadr-2024", type=Path)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     args = parser.parse_args()
-    if not args.smartlabs and not args.pnras:
-        parser.error("specify --smartlabs and/or --pnras")
+    if not args.smartlabs and not args.pnras and not args.afir_feadr_2024:
+        parser.error("specify --smartlabs, --pnras and/or --afir-feadr-2024")
 
     _, _, prepared = school_index()
     records = []
@@ -184,6 +228,8 @@ def main() -> None:
         records.extend(smartlabs_records(args.smartlabs, prepared))
     if args.pnras:
         records.extend(pnras_records(args.pnras, prepared))
+    if args.afir_feadr_2024:
+        records.extend(afir_feadr_records(args.afir_feadr_2024, prepared))
 
     grouped: dict[str, list[dict]] = {}
     for record in records:
@@ -195,6 +241,7 @@ def main() -> None:
     print(f"matched_records={len(records)} schools={len(grouped)}")
     print(f"smartlabs={sum(r['title'].startswith('SmartLab') for r in records)}")
     print(f"pnras={sum(r['title'].startswith('PNRAS') for r in records)}")
+    print(f"pndr={sum(r['program'] == 'PNDR' for r in records)}")
 
 
 if __name__ == "__main__":

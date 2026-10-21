@@ -2829,5 +2829,49 @@
       "year": "2024",
       "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
     }
+  ],
+  "1291105617": [
+    {
+      "siiirCode": "1291105617",
+      "program": "PNDR",
+      "title": "PNDR — M 16 - Cooperare (articolul 35 in Regulamentul (UE) nr. 1305/2013)",
+      "beneficiary": "UNIVERSITATEA DE ȘTIINȚE AGRICOLE ȘI MEDICINĂ VETERINARĂ CLUJ-NAPOCA",
+      "status": "plată FEADR identificată în 2024",
+      "year": "2024",
+      "amountLei": 87201.92,
+      "source": "https://www.afir.ro/media/pbxc3rwz/listaplati_2024_feadr_actualizata.xlsx"
+    },
+    {
+      "siiirCode": "1291105617",
+      "program": "PNDR",
+      "title": "PNDR — M 16 - Cooperare (articolul 35 in Regulamentul (UE) nr. 1305/2013)",
+      "beneficiary": "UNIVERSITATEA DE ȘTIINȚE AGRICOLE ȘI MEDICINĂ VETERINARĂ CLUJ-NAPOCA",
+      "status": "plată FEADR identificată în 2024",
+      "year": "2024",
+      "amountLei": 134992.87,
+      "source": "https://www.afir.ro/media/pbxc3rwz/listaplati_2024_feadr_actualizata.xlsx"
+    },
+    {
+      "siiirCode": "1291105617",
+      "program": "PNDR",
+      "title": "PNDR — M 16 - Cooperare (articolul 35 in Regulamentul (UE) nr. 1305/2013)",
+      "beneficiary": "UNIVERSITATEA DE ȘTIINȚE AGRICOLE ȘI MEDICINĂ VETERINARĂ CLUJ-NAPOCA",
+      "status": "plată FEADR identificată în 2024",
+      "year": "2024",
+      "amountLei": 64636.58,
+      "source": "https://www.afir.ro/media/pbxc3rwz/listaplati_2024_feadr_actualizata.xlsx"
+    }
+  ],
+  "0861100405": [
+    {
+      "siiirCode": "0861100405",
+      "program": "PNDR",
+      "title": "PNDR — M 19 - Sprijin pentru dezvoltarea locala LEADER (CLLD - dezvoltare locala plasata sub responsabilitatea comunitatii)",
+      "beneficiary": "Școala Gimnazială Tărlungeni",
+      "status": "plată FEADR identificată în 2024",
+      "year": "2024",
+      "amountLei": 4668.9,
+      "source": "https://www.afir.ro/media/pbxc3rwz/listaplati_2024_feadr_actualizata.xlsx"
+    }
   ]
 }
