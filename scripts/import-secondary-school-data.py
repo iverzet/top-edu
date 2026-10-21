@@ -1,9 +1,9 @@
-"""Build conservative contact fallbacks from a bot-generated school CSV.
+"""Build reviewed secondary details from a bot-generated school CSV.
 
 The CSV has no SIIIR key, so records are matched by normalized school name.
-Only unique URLs, non-social sources, and values missing from the official
-school record are retained. The result is intentionally a small, auditable
-fallback dataset rather than a replacement for official data.
+Only unique URLs and non-social sources are retained. Official school values
+are never replaced at read time; the application uses these rows only as
+fallbacks and labels them as secondary public sources.
 """
 
 from __future__ import annotations
@@ -87,16 +87,24 @@ def main() -> None:
         fallback: dict[str, str] = {}
 
         address = clean(row.get("adresa"))
-        if not school.get("address") and len(address) >= 8 and not PLACEHOLDER.match(address) and "n/a" not in address.lower():
+        if len(address) >= 8 and not PLACEHOLDER.match(address) and "n/a" not in address.lower():
             fallback["address"] = address
 
         phone = clean(row.get("telefon"))
-        if not school.get("phone") and len(re.sub(r"\D", "", phone)) >= 9 and not PLACEHOLDER.match(phone):
+        if len(re.sub(r"\D", "", phone)) >= 9 and not PLACEHOLDER.match(phone):
             fallback["phone"] = phone
 
         email = clean(row.get("email"))
-        if not school.get("email") and re.match(r"^[^@\s]+@[^@\s]+\.[^@\s]+$", email):
+        if re.match(r"^[^@\s]+@[^@\s]+\.[^@\s]+$", email):
             fallback["email"] = email
+
+        levels = clean(row.get("niveluri_si_specializari"))
+        if len(levels) >= 3 and not PLACEHOLDER.match(levels):
+            fallback["levelsAndSpecializations"] = levels
+
+        facilities = clean(row.get("facilitati"))
+        if len(facilities) >= 3 and not PLACEHOLDER.match(facilities):
+            fallback["facilities"] = facilities
 
         if not fallback or school["siiirCode"] in seen_codes:
             continue

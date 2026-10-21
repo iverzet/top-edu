@@ -56,6 +56,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
   const quality = aracipStatus ?? enrichment?.quality;
   const schoolInvestments = getSchoolInvestments(school.siiirCode);
   const secondaryContact = school.secondaryContact;
+  const hasSecondaryContact = Boolean(secondaryContact?.address || secondaryContact?.phone || secondaryContact?.email);
   const mapUrl = coordinates
     ? `https://www.openstreetmap.org/?mlat=${coordinates.latitude}&mlon=${coordinates.longitude}#map=17/${coordinates.latitude}/${coordinates.longitude}`
     : undefined;
@@ -110,7 +111,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
         </section>
 
         <nav className="profile-tabs" aria-label="Cuprinsul profilului">
-          <a href="#prezentare">Prezentare</a>{enrollment && <a href="#elevi">Elevi și ofertă</a>}{enrichment?.admission && <a href="#admitere">Admitere</a>}{examResults.length > 0 && <a href="#rezultate">Rezultate</a>}{quality && <a href="#calitate">ARACIP</a>}{schoolInvestments.length > 0 && <a href="#investitii">Investiții</a>}<a href="#surse">Surse</a>
+          <a href="#prezentare">Prezentare</a>{enrollment && <a href="#elevi">Elevi și ofertă</a>}{(secondaryContact?.levelsAndSpecializations || secondaryContact?.facilities) && <a href="#informatii-suplimentare">Informații suplimentare</a>}{enrichment?.admission && <a href="#admitere">Admitere</a>}{examResults.length > 0 && <a href="#rezultate">Rezultate</a>}{quality && <a href="#calitate">ARACIP</a>}{schoolInvestments.length > 0 && <a href="#investitii">Investiții</a>}<a href="#surse">Surse</a>
         </nav>
 
         <section className="profile-layout">
@@ -132,6 +133,13 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
               {enrollment.specializations && enrollment.specializations.length > 0 && <div className="tag-group"><h3>Specializări și calificări</h3><div>{enrollment.specializations.map((item) => <span key={item}>{item}</span>)}</div></div>}
               <div className="offer-flags">{enrollment.languages?.map((item) => <span key={item}><BookOpen aria-hidden="true" /> {item}</span>)}{enrollment.studyForms?.map((item) => <span key={item}><School aria-hidden="true" /> {item}</span>)}{enrollment.dual && <span><ShieldCheck aria-hidden="true" /> Învățământ dual</span>}{enrollment.specialEducation && <span><ShieldCheck aria-hidden="true" /> Educație specială</span>}</div>
               <a className="source-link" href={enrollment.source} target="_blank" rel="noreferrer">Setul oficial de date <ArrowUpRight /></a>
+            </section>}
+
+            {(secondaryContact?.levelsAndSpecializations || secondaryContact?.facilities) && <section className="content-card" id="informatii-suplimentare">
+              <p className="kicker">Sursă publică secundară</p><h2>Informații suplimentare despre unitate</h2><p className="card-intro">Aceste detalii completează profilul și sunt afișate separat de datele oficiale.</p>
+              {secondaryContact.levelsAndSpecializations && <div className="tag-group"><h3>Niveluri și specializări raportate</h3><p>{secondaryContact.levelsAndSpecializations}</p></div>}
+              {secondaryContact.facilities && <div className="tag-group"><h3>Facilități raportate</h3><p>{secondaryContact.facilities}</p></div>}
+              <a className="source-link" href={secondaryContact.sourceUrl} target="_blank" rel="noreferrer">Vezi sursa publică <ArrowUpRight /></a>
             </section>}
 
             {enrichment?.admission && enrichment.admission.length > 0 && <section className="content-card" id="admitere">
@@ -166,7 +174,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
           </article>
 
           <aside>
-            <section className="facts-card"><h2>{secondaryContact ? "Date publice de contact" : "Date oficiale"}</h2>{secondaryContact && <p className="card-intro">Contact completat dintr-o sursă publică secundară; verificarea oficială rămâne în curs.</p>}<dl>
+            <section className="facts-card"><h2>{hasSecondaryContact ? "Date publice de contact" : "Date oficiale"}</h2>{hasSecondaryContact && <p className="card-intro">Contact completat dintr-o sursă publică secundară; verificarea oficială rămâne în curs.</p>}<dl>
               <div><dt>Niveluri</dt><dd>{enrollment?.levels?.join(", ") || school.levels}</dd></div><div><dt>Proprietate</dt><dd>{school.ownership}</dd></div><div><dt>Localitate</dt><dd>{school.city}</dd></div><div><dt>Județ</dt><dd>{school.county}</dd></div><div><dt>Adresă</dt><dd>{school.address || "Nu este publicată"}</dd></div><div><dt>Telefon</dt><dd>{school.phone ? <a href={`tel:${school.phone}`}>{school.phone}</a> : "Nu este publicat"}</dd></div><div><dt>Email</dt><dd>{school.email ? <a href={`mailto:${school.email}`}>{school.email}</a> : "Nu este publicat"}</dd></div><div><dt>Cod SIIIR</dt><dd>{school.siiirCode}</dd></div>
             </dl>{mapUrl && <a className="map-button" href={mapUrl} target="_blank" rel="noreferrer"><MapPin /> Vezi pe hartă <ExternalLink /></a>}</section>
 

@@ -9,6 +9,8 @@ export type SecondaryContact = {
   address?: string;
   phone?: string;
   email?: string;
+  levelsAndSpecializations?: string;
+  facilities?: string;
 };
 export type School = {
   slug: string; name: string; city: string; county: string; type: string;
