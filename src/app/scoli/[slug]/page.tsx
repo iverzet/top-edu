@@ -8,14 +8,16 @@ import {
 } from "lucide-react";
 import { getSchool } from "@/lib/schools";
 import { getExamResults } from "@/lib/exam-results";
-import { getCountyInvestment, getSchoolEnrichment } from "@/lib/school-enrichment";
+import { getSchoolEnrichment } from "@/lib/school-enrichment";
 import { getAracipStatus } from "@/lib/aracip";
+import { getSchoolInvestments } from "@/lib/school-investments";
 import { getVerifiedSchoolImage } from "@/lib/school-images";
 import { profileVariantLabels, profileVariantPresentation, resolveProfileVariant } from "@/lib/profile-variants";
 
 export const dynamicParams = true;
 const numberFormatter = new Intl.NumberFormat("ro-RO");
 const SCHOOL_NETWORK_SOURCE = "https://data.gov.ro/dataset/retea-scolara-2025-2026";
+const AFIR_BENEFICIARIES_SOURCE = "https://www.afir.ro/instrumente/informatii-utile/stadiul-implementarii/pndr-2014-2020/beneficiari-feadr-la-nivel-national/";
 const formatNumber = (value?: number) => value === undefined ? "—" : numberFormatter.format(value);
 const formatClasses = (value?: number) => value === undefined ? "—" : value.toLocaleString("ro-RO");
 
@@ -52,14 +54,13 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
   const history = enrichment?.enrollmentHistory ?? [];
   const coordinates = enrichment?.coordinates;
   const quality = aracipStatus ?? enrichment?.quality;
-  const countyInvestment = getCountyInvestment(school.county);
+  const schoolInvestments = getSchoolInvestments(school.siiirCode);
   const mapUrl = coordinates
     ? `https://www.openstreetmap.org/?mlat=${coordinates.latitude}&mlon=${coordinates.longitude}#map=17/${coordinates.latitude}/${coordinates.longitude}`
     : undefined;
   const currentStudents = enrollment?.students;
   const previousStudents = history.find((item) => item.schoolYear === "2024-2025")?.students;
   const studentChange = currentStudents !== undefined && previousStudents !== undefined ? currentStudents - previousStudents : undefined;
-  const topInvestments = countyInvestment?.investments.filter((item) => item.unitatiBeneficiare || item.proiecteDepuse).slice(0, 4) ?? [];
   const jsonLd = {
     "@context": "https://schema.org", "@type": "EducationalOrganization", name: school.name,
     url: `https://top-edu.ro/scoli/${school.slug}`,
@@ -108,7 +109,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
         </section>
 
         <nav className="profile-tabs" aria-label="Cuprinsul profilului">
-          <a href="#prezentare">Prezentare</a>{enrollment && <a href="#elevi">Elevi și ofertă</a>}{enrichment?.admission && <a href="#admitere">Admitere</a>}{examResults.length > 0 && <a href="#rezultate">Rezultate</a>}{quality && <a href="#calitate">ARACIP</a>}{countyInvestment && <a href="#investitii">Investiții</a>}<a href="#surse">Surse</a>
+          <a href="#prezentare">Prezentare</a>{enrollment && <a href="#elevi">Elevi și ofertă</a>}{enrichment?.admission && <a href="#admitere">Admitere</a>}{examResults.length > 0 && <a href="#rezultate">Rezultate</a>}{quality && <a href="#calitate">ARACIP</a>}{schoolInvestments.length > 0 && <a href="#investitii">Investiții</a>}<a href="#surse">Surse</a>
         </nav>
 
         <section className="profile-layout">
@@ -156,10 +157,10 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
               <a className="source-link" href={quality.source} target="_blank" rel="noreferrer">Consultă registrul ARACIP <ArrowUpRight /></a>
             </div></section>}
 
-            {countyInvestment && topInvestments.length > 0 && <section className="content-card" id="investitii">
-              <p className="kicker">Context județean · nu date ale unității</p><h2>Investiții PNRR în educație</h2><p className="card-intro">Aceste cifre descriu județul {school.county}. Ele nu confirmă că această școală este beneficiar direct.</p>
-              <div className="investment-list">{topInvestments.map((item) => <div key={item.numeProiect}><strong>{item.numeProiect}</strong><span>{item.unitatiBeneficiare ? `${formatNumber(item.unitatiBeneficiare)} unități beneficiare` : `${formatNumber(item.proiecteDepuse)} proiecte`}</span></div>)}</div>
-              <a className="source-link" href={countyInvestment.source} target="_blank" rel="noreferrer">Harta oficială PNRR <ArrowUpRight /></a>
+            {schoolInvestments.length > 0 && <section className="content-card" id="investitii">
+              <p className="kicker">Finanțare confirmată la această unitate</p><h2>Investiții și proiecte publice</h2><p className="card-intro">Sunt afișate numai proiecte asociate explicit codului SIIIR al școlii și păstrate cu sursa publică.</p>
+              <div className="investment-list">{schoolInvestments.map((item) => <div key={`${item.program}-${item.title}`}><strong>{item.title}</strong><span>{item.program}{item.year ? ` · ${item.year}` : ""}{item.status ? ` · ${item.status}` : ""}{item.amountLei ? ` · ${formatNumber(item.amountLei)} lei` : ""}</span><small>Beneficiar: {item.beneficiary}</small></div>)}</div>
+              <a className="source-link" href={schoolInvestments[0].source} target="_blank" rel="noreferrer">Sursa proiectului <ArrowUpRight /></a>
             </section>}
           </article>
 
@@ -172,7 +173,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
 
             <section className="facts-card source-card" id="surse"><h2>Surse și verificare</h2><p>Fiecare indicator păstrează legătura spre setul public din care provine. Datele județene sunt marcate separat.</p>
               <a href={SCHOOL_NETWORK_SOURCE} target="_blank" rel="noreferrer">Rețeaua școlară <ArrowUpRight /></a>{enrollment && <a href={enrollment.source} target="_blank" rel="noreferrer">Elevi și clase <ArrowUpRight /></a>}{quality && <a href={quality.source} target="_blank" rel="noreferrer">Registrul ARACIP <ArrowUpRight /></a>}{coordinates && <a href={coordinates.source} target="_blank" rel="noreferrer">Coordonate școli <ArrowUpRight /></a>}
-              <a href="https://www.e-licitatie.ro/pub" target="_blank" rel="noreferrer">Achiziții publice SEAP <ArrowUpRight /></a><a href="https://titularizare.edu.ro/" target="_blank" rel="noreferrer">Posturi publicate · Titularizare <ArrowUpRight /></a>
+              <a href={AFIR_BENEFICIARIES_SOURCE} target="_blank" rel="noreferrer">AFIR · beneficiari FEADR/PNDR <ArrowUpRight /></a>
               {enrichment?.officialWebsite && <a href={enrichment.officialWebsite} target="_blank" rel="noreferrer">Site-ul oficial al școlii <ArrowUpRight /></a>}
               {enrichment?.procurementUrl && <a href={enrichment.procurementUrl} target="_blank" rel="noreferrer">Achizițiile acestei unități <ArrowUpRight /></a>}
               {enrichment?.budgetUrl && <a href={enrichment.budgetUrl} target="_blank" rel="noreferrer">Buget și execuție <ArrowUpRight /></a>}
