@@ -1,1 +1,2833 @@
-{}
+{
+  "3161100643": [
+    {
+      "siiirCode": "3161100643",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC NR.1 SURDUC",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2061100023": [
+    {
+      "siiirCode": "2061100023",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"MATEI CORVIN\" HUNEDOARA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2861100011": [
+    {
+      "siiirCode": "2861100011",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC DRĂGĂNEȘTI-OLT",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0761105194": [
+    {
+      "siiirCode": "0761105194",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" FLAMÂNZI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295115.83,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0761105407": [
+    {
+      "siiirCode": "0761105407",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC „ALEXANDRU VLAHUȚĂ” ȘENDRICENI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 294722.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0561100097": [
+    {
+      "siiirCode": "0561100097",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC NR.1 ŞUNCUIUŞ",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3661100423": [
+    {
+      "siiirCode": "3661100423",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" TULCEA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.89,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3861105054": [
+    {
+      "siiirCode": "3861105054",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL „CONSTANTIN BRÂNCOVEANU”, ORAȘ HOREZU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.81,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3161104335": [
+    {
+      "siiirCode": "3161104335",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "ȘCOALA PROFESIONALĂ SÂG",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0761104365": [
+    {
+      "siiirCode": "0761104365",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC TODIRENI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.83,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1771101125": [
+    {
+      "siiirCode": "1771101125",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR GALAȚI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261101959": [
+    {
+      "siiirCode": "3261101959",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL TEHNIC ENERGETIC SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.82,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261101597": [
+    {
+      "siiirCode": "3261101597",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"INDEPENDENŢA\" SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.89,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0961101929": [
+    {
+      "siiirCode": "0961101929",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "ŞCOALA PROFESIONALĂ \"EMIL DRĂGAN\"",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295110.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2961102925": [
+    {
+      "siiirCode": "2961102925",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL \"FERDINAND I\", COMUNA MĂNECIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3861101204": [
+    {
+      "siiirCode": "3861101204",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL „PREDA BUZESCU”, ORAȘ BERBEȘTI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0961101983": [
+    {
+      "siiirCode": "0961101983",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"GHEORGHE K.CONSTANTINESCU\"",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361100446": [
+    {
+      "siiirCode": "1361100446",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL ECONOMIC ’VIRGIL MADGEARU’ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 294252.65,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261106519": [
+    {
+      "siiirCode": "2261106519",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL, IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 586234.51,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0971100033": [
+    {
+      "siiirCode": "0971100033",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR BRĂILA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3061101591": [
+    {
+      "siiirCode": "3061101591",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEOLOGIC ROMANO-CATOLIC „HAM JANOS” SATU MARE",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0161103206": [
+    {
+      "siiirCode": "0161103206",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"ȚARA MOȚILOR\" ALBAC",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "4061102617": [
+    {
+      "siiirCode": "4061102617",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Liceul Teoretic „Mihail Sadoveanu”",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 294637.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261105242": [
+    {
+      "siiirCode": "2261105242",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"VASILE ALECSANDRI\", IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590238.5,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3071101863": [
+    {
+      "siiirCode": "3071101863",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR SATU MARE",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0961102446": [
+    {
+      "siiirCode": "0961102446",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL PEDAGOGIC \"DUMITRU PANAITESCU PERPESSICIUS\"",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861101953": [
+    {
+      "siiirCode": "0861101953",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Tehnic 'Maria Baiulescu' Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295004.69,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "4061100131": [
+    {
+      "siiirCode": "4061100131",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Tehnic Energetic",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 294975.67,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361203121": [
+    {
+      "siiirCode": "3361203121",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL \"NATANAEL\" SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 294947.69,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0961101897": [
+    {
+      "siiirCode": "0961101897",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL DE ARTE \"HARICLEA DARCLEE\"",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2371101585": [
+    {
+      "siiirCode": "2371101585",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR ȘI ELEVILOR ILFOV",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0461108369": [
+    {
+      "siiirCode": "0461108369",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL „MIHAI EMINESCU” BACĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2661104565": [
+    {
+      "siiirCode": "2661104565",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL „ALEXANDRU PAPIU ILARIAN” TÂRGU MUREȘ",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295083.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261101656": [
+    {
+      "siiirCode": "3261101656",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL DE ARTĂ SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2671103967": [
+    {
+      "siiirCode": "2671103967",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR TÂRGU MUREȘ",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861101216": [
+    {
+      "siiirCode": "0861101216",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Național 'Andrei Șaguna' Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.83,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0161102544": [
+    {
+      "siiirCode": "0161102544",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC TEIUȘ",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "4061100149": [
+    {
+      "siiirCode": "4061100149",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Liceul Teoretic „Eugen Lovinescu”",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590264.84,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0461107395": [
+    {
+      "siiirCode": "0461107395",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAŢIONAL „FERDINAND I” BACĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590251.7,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261106121": [
+    {
+      "siiirCode": "2261106121",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL ECONOMIC \"VIRGIL MADGEARU\", IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.82,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361103593": [
+    {
+      "siiirCode": "3361103593",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"PETRU RAREȘ\" SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.95,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0461107947": [
+    {
+      "siiirCode": "0461107947",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC „DUMITRU MANGERON” BACĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361105026": [
+    {
+      "siiirCode": "1361105026",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC ’OVIDIUS’ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 586660.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2961102798": [
+    {
+      "siiirCode": "2961102798",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL \"CAROL I \", ORAȘUL PLOPENI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "5162100674": [
+    {
+      "siiirCode": "5162100674",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO CĂLĂRAȘI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261101837": [
+    {
+      "siiirCode": "3261101837",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"GHEORGHE LAZĂR\" SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.79,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "4061103012": [
+    {
+      "siiirCode": "4061103012",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Național „Matei Basarab”",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.89,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3271101313": [
+    {
+      "siiirCode": "3271101313",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0461107608": [
+    {
+      "siiirCode": "0461107608",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL ECONOMIC „ION GHICA” BACĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361104056": [
+    {
+      "siiirCode": "3361104056",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL ECONOMIC \"DIMITRIE CANTEMIR\" SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.81,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3561101656": [
+    {
+      "siiirCode": "3561101656",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"GRIGORE MOISIL\" TIMIȘOARA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590183.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261101184": [
+    {
+      "siiirCode": "0261101184",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAŢIONAL \"PREPARANDIA-DIMITRIE ŢICHINDEAL\" ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861100382": [
+    {
+      "siiirCode": "0861100382",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul 'Nicolae Titulescu' Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0761105244": [
+    {
+      "siiirCode": "0761105244",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL CU PROGRAM SPORTIV BOTOSANI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 269516.36,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3661100726": [
+    {
+      "siiirCode": "3661100726",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"HENRI COANDĂ\" TULCEA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590179.27,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261100744": [
+    {
+      "siiirCode": "0261100744",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEOLOGIC PENTICOSTAL ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261101329": [
+    {
+      "siiirCode": "0261101329",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAŢIONAL \"ELENA GHIBA BIRTA\" ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 589950.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3561101683": [
+    {
+      "siiirCode": "3561101683",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMIȘOARA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.84,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261106442": [
+    {
+      "siiirCode": "2261106442",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC ECONOMIC DE TURISM, IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.83,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261101796": [
+    {
+      "siiirCode": "3261101796",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL TEHNIC \"CIBINIUM\" SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 589539.8,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "5161100801": [
+    {
+      "siiirCode": "5161100801",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL ECONOMIC CĂLĂRAȘI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 280700.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "5161103555": [
+    {
+      "siiirCode": "5161103555",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL \"DANUBIUS\" CĂLĂRAȘI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 260160.43,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361105338": [
+    {
+      "siiirCode": "1361105338",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC ’GEORGE EMIL PALADE’ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.81,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861100907": [
+    {
+      "siiirCode": "0861100907",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.87,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "4061204766": [
+    {
+      "siiirCode": "4061204766",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Liceul Teoretic Internațional de Informatică București",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.8,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0161102847": [
+    {
+      "siiirCode": "0161102847",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "SEMINARUL TEOLOGIC ORTODOX \"SFÂNTUL SIMION ȘTEFAN\" ALBA IULIA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3661101537": [
+    {
+      "siiirCode": "3661101537",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"BRAD SEGAL\" TULCEA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0461107445": [
+    {
+      "siiirCode": "0461107445",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL CU PROGRAM SPORTIV BACĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.89,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0961101617": [
+    {
+      "siiirCode": "0961101617",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAŢIONAL \"ANA ASLAN\"",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0761104935": [
+    {
+      "siiirCode": "0761104935",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC BUCECEA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.83,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861102036": [
+    {
+      "siiirCode": "0861102036",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Național 'Unirea' Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 589900.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361102687": [
+    {
+      "siiirCode": "3361102687",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL DE INFORMATICĂ \"SPIRU HARET\" SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.78,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0461108188": [
+    {
+      "siiirCode": "0461108188",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAŢIONAL CATOLIC „SF. IOSIF” BACĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295129.08,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861100735": [
+    {
+      "siiirCode": "0861100735",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Tehnic de Transporturi Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.81,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3061101876": [
+    {
+      "siiirCode": "3061101876",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC „PETRU CUPCEA” SUPURU DE JOS",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 277574.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3561102232": [
+    {
+      "siiirCode": "3561102232",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC ”ELECTROTIMIȘ” TIMIȘOARA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295119.16,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2361101309": [
+    {
+      "siiirCode": "2361101309",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"ALEXANDRU ROSETTI\" VIDRA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0961102084": [
+    {
+      "siiirCode": "0961102084",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"PANAIT CERNA\"",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2661105385": [
+    {
+      "siiirCode": "2661105385",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL AGRICOL „TRAIAN SĂVULESCU” TÂRGU MUREȘ",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.8,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261101279": [
+    {
+      "siiirCode": "0261101279",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.84,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261106718": [
+    {
+      "siiirCode": "2261106718",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL TEHNIC \"IOAN C. ŞTEFĂNESCU\", IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261101157": [
+    {
+      "siiirCode": "0261101157",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL ECONOMIC ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261102051": [
+    {
+      "siiirCode": "3261102051",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"AVRAM IANCU\" SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3371102882": [
+    {
+      "siiirCode": "3371102882",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261100771": [
+    {
+      "siiirCode": "0261100771",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL \"SEVER BOCU\" LIPOVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261101335": [
+    {
+      "siiirCode": "3261101335",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"SAMUEL VON BRUKENTHAL\" SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361108286": [
+    {
+      "siiirCode": "3361108286",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361100116": [
+    {
+      "siiirCode": "1361100116",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC ’GHEORGHE DUCA’ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3561102078": [
+    {
+      "siiirCode": "3561102078",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"ION.I.C.BRĂTIANU\" TIMIȘOARA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3861100085": [
+    {
+      "siiirCode": "3861100085",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC „BRĂTIANU”, MUNICIPIUL DRĂGĂȘANI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.78,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261101968": [
+    {
+      "siiirCode": "3261101968",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL PEDAGOGIC \"ANDREI ŞAGUNA\" SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2061100059": [
+    {
+      "siiirCode": "2061100059",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"GRIGORE MOISIL\" DEVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.76,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0471107658": [
+    {
+      "siiirCode": "0471107658",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR BACĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.84,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361100871": [
+    {
+      "siiirCode": "1361100871",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC ’DIMITRIE LEONIDA’ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 588245.6,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261100147": [
+    {
+      "siiirCode": "0261100147",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL CU PROGRAM SPORTIV ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.89,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "4061205265": [
+    {
+      "siiirCode": "4061205265",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Liceul Teoretic \"Şcoala Europeană Bucureşti\"",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 287545.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261106564": [
+    {
+      "siiirCode": "2261106564",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC DE TRANSPORTURI ȘI DE CONSTRUCȚII, IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.84,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861100934": [
+    {
+      "siiirCode": "0861100934",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Național 'Aprily Lajos' Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861101763": [
+    {
+      "siiirCode": "0861101763",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Liceul Vocațional de Muzică 'Tudor Ciortea' Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295109.22,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3851100044": [
+    {
+      "siiirCode": "3851100044",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "CLUBUL COPIILOR, ORAȘ HOREZU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.89,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361107986": [
+    {
+      "siiirCode": "3361107986",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"ȘTEFAN CEL MARE\" SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590156.87,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3061102651": [
+    {
+      "siiirCode": "3061102651",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC „ION I. C. BRĂTIANU” SATU MARE",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295005.99,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3061102624": [
+    {
+      "siiirCode": "3061102624",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAŢIONAL „IOAN SLAVICI” SATU MARE",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 589456.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261104549": [
+    {
+      "siiirCode": "0261104549",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL\"CSIKY GERGELY\" ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261204877": [
+    {
+      "siiirCode": "0261204877",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "ŞCOALA POSTLICEALĂ \"THEOS SPERANŢA\" ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 247932.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0761105081": [
+    {
+      "siiirCode": "0761105081",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "SEMINARUL TEOLOGIC LICEAL ORTODOX „SF. GHEORGHE” BOTOȘANI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0461107757": [
+    {
+      "siiirCode": "0461107757",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC „HENRI COANDĂ” BACĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 561000.99,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0161102589": [
+    {
+      "siiirCode": "0161102589",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"HOREA, CLOȘCA ȘI CRIȘAN\" ALBA IULIA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.8,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1261102445": [
+    {
+      "siiirCode": "1261102445",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"BRASSAI SAMUEL\" CLUJ-NAPOCA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "5261101375": [
+    {
+      "siiirCode": "5261101375",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL TEHNIC „VICEAMIRAL IOAN BĂLĂNESCU” GIURGIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261100189": [
+    {
+      "siiirCode": "3261100189",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"CONSTANTIN NOICA\" SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261100753": [
+    {
+      "siiirCode": "0261100753",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAŢIONAL \"MOISE NICOARĂ\" ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590268.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "5171100064": [
+    {
+      "siiirCode": "5171100064",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR NR.1 CĂLĂRAȘI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 294252.65,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2271107077": [
+    {
+      "siiirCode": "2271107077",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR IASI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0961100159": [
+    {
+      "siiirCode": "0961100159",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\"",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3861100949": [
+    {
+      "siiirCode": "3861100949",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL „GHEORGHE SURDU”, ORAȘ BREZOI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.89,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0161102716": [
+    {
+      "siiirCode": "0161102716",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL DE ARTE \"REGINA MARIA\" ALBA IULIA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.81,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261106311": [
+    {
+      "siiirCode": "2261106311",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"MIRON COSTIN\", IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 587783.95,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0861100979": [
+    {
+      "siiirCode": "0861100979",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Național Economic 'Andrei Bârseanu' Brașov",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590053.46,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0761100067": [
+    {
+      "siiirCode": "0761100067",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL \"DIMITRIE NEGREANU\" BOTOSANI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261104992": [
+    {
+      "siiirCode": "0261104992",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261100509": [
+    {
+      "siiirCode": "0261100509",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL \"ATANASIE MARIENESCU\" LIPOVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1371101728": [
+    {
+      "siiirCode": "1371101728",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "PALATUL COPIILOR CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "4061103265": [
+    {
+      "siiirCode": "4061103265",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Colegiul Naţional „Ion Creangă”",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.8,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361100722": [
+    {
+      "siiirCode": "1361100722",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC ’GHEORGHE MIRON COSTIN’ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.82,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261102137": [
+    {
+      "siiirCode": "3261102137",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"OCTAVIAN GOGA\" SIBIU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590267.8,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261106424": [
+    {
+      "siiirCode": "2261106424",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC DE INFORMATICĂ \"GRIGORE MOISIL\", IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590268.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3661100382": [
+    {
+      "siiirCode": "3661100382",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL ECONOMIC \"DELTA DUNĂRII\" TULCEA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3161100711": [
+    {
+      "siiirCode": "3161100711",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC NR.1 GÂLGĂU",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 291606.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361101483": [
+    {
+      "siiirCode": "1361101483",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "SEMINARUL TEOLOGIC ORTODOX ’SFÂNTUL CUVIOS DIONISIE EXIGUUL’ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.92,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3861105131": [
+    {
+      "siiirCode": "3861105131",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"PETRACHE POENARU\", ORAȘ BĂLCEȘTI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 588505.3,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361101714": [
+    {
+      "siiirCode": "1361101714",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC ’IOAN N.ROMAN’ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361100862": [
+    {
+      "siiirCode": "1361100862",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL ENERGETIC CONSTANȚA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3061100088": [
+    {
+      "siiirCode": "3061100088",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL CU PROGRAM SPORTIV SATU MARE",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295128.94,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1461100137": [
+    {
+      "siiirCode": "1461100137",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "Liceul \"Kőrösi Csoma Sándor\" Covasna",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.88,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3661100554": [
+    {
+      "siiirCode": "3661100554",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL DE ARTE \"GEORGE GEORGESCU\" TULCEA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295114.22,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3261101294": [
+    {
+      "siiirCode": "3261101294",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC \"ILIE MĂCELARIU\" MIERCUREA SIBIULUI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.89,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "5261100026": [
+    {
+      "siiirCode": "5261100026",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC NR.1 COMANA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 285354.49,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0261100789": [
+    {
+      "siiirCode": "0261100789",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"ADAM MULLER GUTTENBRUNN\" ARAD",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.9,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1361100229": [
+    {
+      "siiirCode": "1361100229",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL DE MARINĂ CONSTANŢA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361204185": [
+    {
+      "siiirCode": "3361204185",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"FILADELFIA\" SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361103073": [
+    {
+      "siiirCode": "3361103073",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL CU PROGRAM SPORTIV SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295133.91,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3861100976": [
+    {
+      "siiirCode": "3861100976",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEHNOLOGIC FORESTIER, MUNICIPIUL RÂMNICU VÂLCEA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 294455.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "2261104675": [
+    {
+      "siiirCode": "2261104675",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC WALDORF, IAŞI",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 294346.96,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "1961100021": [
+    {
+      "siiirCode": "1961100021",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"TAMÁSI ÁRON\" ODORHEIU SECUIESC",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 590268.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3361100174": [
+    {
+      "siiirCode": "3361100174",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "COLEGIUL NAȚIONAL \"MIHAI EMINESCU\" SUCEAVA",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 589134.0,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "0161102811": [
+    {
+      "siiirCode": "0161102811",
+      "program": "PNRR",
+      "title": "SmartLab — dotarea laboratorului inteligent",
+      "beneficiary": "LICEUL TEORETIC \"PETRU MAIOR\" OCNA MUREȘ",
+      "status": "selectat pentru finanțare",
+      "year": "2023",
+      "amountLei": 295129.1,
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/PNRR/Smartlabs/liste_beneficiari/Lista_refacuta_proiecte_selectate_finantare_SmartLabs_ME_26_05_2023.pdf"
+    }
+  ],
+  "3961100649": [
+    {
+      "siiirCode": "3961100649",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"SIMION MEHEDINȚI\" SOVEJA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103746": [
+    {
+      "siiirCode": "1161103746",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "LICEUL TEHNOLOGIC „MIHAI NOVAC“ ORAVIŢA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3861101371": [
+    {
+      "siiirCode": "3861101371",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ, COMUNA MĂDULARI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2161100962": [
+    {
+      "siiirCode": "2161100962",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ SĂRĂŢENI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3861100551": [
+    {
+      "siiirCode": "3861100551",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ, SAT POPEȘTI, COMUNA GOLEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3861100108": [
+    {
+      "siiirCode": "3861100108",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ „IOAN DIDICESCU”, COMUNA VOICEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3861101199": [
+    {
+      "siiirCode": "3861101199",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ, COMUNA MILCOIU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3861100854": [
+    {
+      "siiirCode": "3861100854",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ „BARTOLOMEU VALERIU ANANIA\", COMUNA GLĂVILE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0261100735": [
+    {
+      "siiirCode": "0261100735",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ \"MORA FERENC\" ZIMANDU NOU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3861100795": [
+    {
+      "siiirCode": "3861100795",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ, COMUNA RUNCU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3861101353": [
+    {
+      "siiirCode": "3861101353",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ, COMUNA MITROFANI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3861105158": [
+    {
+      "siiirCode": "3861105158",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ, COMUNA CREȚENI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105686": [
+    {
+      "siiirCode": "1661105686",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"NICOLAE GH. POPESCU\" ÎNTORSURA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0261104445": [
+    {
+      "siiirCode": "0261104445",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ GROŞENI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461101291": [
+    {
+      "siiirCode": "3461101291",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ CRÂNGU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0161103061": [
+    {
+      "siiirCode": "0161103061",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ OHABA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0161102942": [
+    {
+      "siiirCode": "0161102942",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"ION AGÂRBICEANU\" CENADE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461101359": [
+    {
+      "siiirCode": "3461101359",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ VIIȘOARA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0261104522": [
+    {
+      "siiirCode": "0261104522",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ IACOBINI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3261102006": [
+    {
+      "siiirCode": "3261102006",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ APOLDU DE JOS",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2061103193": [
+    {
+      "siiirCode": "2061103193",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"SABIN OPREAN\" BUCUREȘCI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161104001": [
+    {
+      "siiirCode": "1161104001",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ RAMNA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2461100953": [
+    {
+      "siiirCode": "2461100953",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ OARȚA DE SUS",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461100851": [
+    {
+      "siiirCode": "3461100851",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103303": [
+    {
+      "siiirCode": "1161103303",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ „TRAIAN LALESCU“ CORNEA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161104281": [
+    {
+      "siiirCode": "1161104281",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ ZORLENŢU MARE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461100756": [
+    {
+      "siiirCode": "3461100756",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ SLOBOZIA MÂNDRA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461100901": [
+    {
+      "siiirCode": "3461100901",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ LIȚA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461103741": [
+    {
+      "siiirCode": "3461103741",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ UDA CLOCOCIOV",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0261104558": [
+    {
+      "siiirCode": "0261104558",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ VÂRFURILE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0261101008": [
+    {
+      "siiirCode": "0261101008",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ SINTEA MARE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2061103098": [
+    {
+      "siiirCode": "2061103098",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"NICOLAE ȚIC\" BRĂNIȘCA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161104304": [
+    {
+      "siiirCode": "1161104304",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ „PETRE SAVA BĂLEANU“ VĂLIUG",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661106045": [
+    {
+      "siiirCode": "1661106045",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"SF. DUMITRU\" MĂCEȘU DE SUS",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3161100792": [
+    {
+      "siiirCode": "3161100792",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"GHEORGHE MUNTEANU\" POIANA BLENCHII",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1261103645": [
+    {
+      "siiirCode": "1261103645",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ PLOSCOȘ, COM. PLOSCOȘ",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2061100706": [
+    {
+      "siiirCode": "2061100706",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ GURASADA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105044": [
+    {
+      "siiirCode": "1661105044",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ GALICIUICA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2461100727": [
+    {
+      "siiirCode": "2461100727",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ GÂRDANI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161104394": [
+    {
+      "siiirCode": "1161104394",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ „VASILE VERSAVIA“ NAIDĂŞ",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105754": [
+    {
+      "siiirCode": "1661105754",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"ILIE MARTIN\" BRABOVA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2461101434": [
+    {
+      "siiirCode": "2461101434",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ „MIHAI OLOS” ARINIȘ",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0261100979": [
+    {
+      "siiirCode": "0261100979",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ ŞILINDIA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0161102743": [
+    {
+      "siiirCode": "0161102743",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ MIRĂSLĂU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661104495": [
+    {
+      "siiirCode": "1661104495",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ GHERCEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2461100813": [
+    {
+      "siiirCode": "2461100813",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ „BENKŐ FERENC” DĂMĂCUȘENI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105935": [
+    {
+      "siiirCode": "1661105935",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ SEACA DE CÂMP",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105053": [
+    {
+      "siiirCode": "1661105053",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ GHINDENI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0161103102": [
+    {
+      "siiirCode": "0161103102",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"DEMETRIU RADU\" RĂDEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103823": [
+    {
+      "siiirCode": "1161103823",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ GÂRNIC",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103592": [
+    {
+      "siiirCode": "1161103592",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ CORNUŢEL",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3561102214": [
+    {
+      "siiirCode": "3561102214",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ OHABA LUNGĂ",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3661100735": [
+    {
+      "siiirCode": "3661100735",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ \"NICOLAE IORGA\" GRINDU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3661100373": [
+    {
+      "siiirCode": "3661100373",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ STEJARU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0661101047": [
+    {
+      "siiirCode": "0661101047",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"PETRU RAREȘ\" CICEU-MIHĂIEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461100046": [
+    {
+      "siiirCode": "3461100046",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"EFTIMIE CROITORU\" SFINȚEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461100566": [
+    {
+      "siiirCode": "3461100566",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ BEUCA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461103899": [
+    {
+      "siiirCode": "3461103899",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ BALACI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461101056": [
+    {
+      "siiirCode": "3461101056",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ SĂCENI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103556": [
+    {
+      "siiirCode": "1161103556",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ DOMAŞNEA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3561101588": [
+    {
+      "siiirCode": "3561101588",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ GHIZELA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3761107546": [
+    {
+      "siiirCode": "3761107546",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ NR. 1, SAT BLĂGEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2461101529": [
+    {
+      "siiirCode": "2461101529",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ POIENILE IZEI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0961102134": [
+    {
+      "siiirCode": "0961102134",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ SURDILA GRECI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661102068": [
+    {
+      "siiirCode": "1661102068",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"MARIN SORESCU\" BULZEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161100024": [
+    {
+      "siiirCode": "1161100024",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ VRANI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2161100695": [
+    {
+      "siiirCode": "2161100695",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ \"FERDINAND I\" MOVILA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105157": [
+    {
+      "siiirCode": "1661105157",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ ROBĂNEȘTII DE JOS",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3961100961": [
+    {
+      "siiirCode": "3961100961",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"ȘTEFAN CEL MARE\" BÂRSEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0261100364": [
+    {
+      "siiirCode": "0261100364",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ \"SIMONYI IMRE\" SATU NOU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105573": [
+    {
+      "siiirCode": "1661105573",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ DOBROTEȘTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2061100014": [
+    {
+      "siiirCode": "2061100014",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"PREOT IOSIF COMȘA\" RIBIȚA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2061100041": [
+    {
+      "siiirCode": "2061100041",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ SĂLAȘU DE SUS",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105917": [
+    {
+      "siiirCode": "1661105917",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ SECU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1061104649": [
+    {
+      "siiirCode": "1061104649",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "LICEUL TEHNOLOGIC COMUNA VERNEŞTI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2561102483": [
+    {
+      "siiirCode": "2561102483",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ CIREȘU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661105564": [
+    {
+      "siiirCode": "1661105564",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"OPSICHIE CAZACU\" SEACA DE PĂDURE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103574": [
+    {
+      "siiirCode": "1161103574",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ GORUIA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2161101502": [
+    {
+      "siiirCode": "2161101502",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ GIURGENI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461100209": [
+    {
+      "siiirCode": "3461100209",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ SCURTU MARE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461103777": [
+    {
+      "siiirCode": "3461103777",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ FRUMOASA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2561101889": [
+    {
+      "siiirCode": "2561101889",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ VÂNĂTORI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "2561102022": [
+    {
+      "siiirCode": "2561102022",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ OBÂRȘIA CLOȘANI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3561101308": [
+    {
+      "siiirCode": "3561101308",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ CURTEA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3561101846": [
+    {
+      "siiirCode": "3561101846",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ PIETROASA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461103827": [
+    {
+      "siiirCode": "3461103827",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ DRACEA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0161102924": [
+    {
+      "siiirCode": "0161102924",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ FĂRĂU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103832": [
+    {
+      "siiirCode": "1161103832",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ POIANA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161104367": [
+    {
+      "siiirCode": "1161104367",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ OCNA DE FIER",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0361103578": [
+    {
+      "siiirCode": "0361103578",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ \"ILIE STĂNCULESCU\" RÂCA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103963": [
+    {
+      "siiirCode": "1161103963",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ ŞOPOTU NOU",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1661104536": [
+    {
+      "siiirCode": "1661104536",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ TERPEZIȚA",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103443": [
+    {
+      "siiirCode": "1161103443",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ CĂRBUNARI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0861100803": [
+    {
+      "siiirCode": "0861100803",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "Școala Gimnazială Drăușeni",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "1161103452": [
+    {
+      "siiirCode": "1161103452",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ŞCOALA GIMNAZIALĂ COPĂCELE",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "3461100815": [
+    {
+      "siiirCode": "3461100815",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ BUJORENI",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ],
+  "0161102978": [
+    {
+      "siiirCode": "0161102978",
+      "program": "PNRR",
+      "title": "PNRAS II — Școli mici",
+      "beneficiary": "ȘCOALA GIMNAZIALĂ SOHODOL",
+      "status": "ADMIS",
+      "year": "2024",
+      "source": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2023/PNRR/PNRAS_II/Scoli_mici/liste/09_05_2024_Rezultate_lista_finala_beneficiari.pdf"
+    }
+  ]
+}
