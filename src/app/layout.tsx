@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://top-edu.ro"),
+  metadataBase: new URL("https://www.top-edu.ro"),
   title: { default: "Top Edu — Transparență în educație", template: "%s | Top Edu" },
   description: "Vezi date publice despre școlile din România: bugete, indicatori, contacte și metodologia Top Edu.",
   alternates: { canonical: "/" },
@@ -22,12 +22,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "ro_RO",
-    url: "https://top-edu.ro",
+    url: "https://www.top-edu.ro",
     siteName: "Top Edu",
     title: "Top Edu — Transparență în educație",
     description: "Date publice despre școlile din România, explicate clar și verificabil.",
+    images: [{ url: "/top-edu-family.png", width: 1600, height: 900, alt: "Elevi și prieteni în curtea unei școli din România" }],
   },
-  twitter: { card: "summary_large_image", title: "Top Edu — Transparență în educație", description: "Date publice despre școlile din România, explicate clar și verificabil." },
+  twitter: { card: "summary_large_image", title: "Top Edu — Transparență în educație", description: "Date publice despre școlile din România, explicate clar și verificabil.", images: ["/top-edu-family.png"] },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -41,8 +42,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@graph": [
-            { "@type": "Organization", "@id": "https://top-edu.ro/#organization", name: "Top Edu", url: "https://top-edu.ro", logo: "https://top-edu.ro/icon.svg" },
-            { "@type": "WebSite", "@id": "https://top-edu.ro/#website", url: "https://top-edu.ro", name: "Top Edu", publisher: { "@id": "https://top-edu.ro/#organization" }, inLanguage: "ro-RO", potentialAction: { "@type": "SearchAction", target: "https://top-edu.ro/?q={search_term_string}", "query-input": "required name=search_term_string" } }
+            { "@type": "Organization", "@id": "https://www.top-edu.ro/#organization", name: "Top Edu", url: "https://www.top-edu.ro", logo: "https://www.top-edu.ro/icon.svg" },
+            { "@type": "WebSite", "@id": "https://www.top-edu.ro/#website", url: "https://www.top-edu.ro", name: "Top Edu", publisher: { "@id": "https://www.top-edu.ro/#organization" }, inLanguage: "ro-RO", potentialAction: { "@type": "SearchAction", target: "https://www.top-edu.ro/?q={search_term_string}", "query-input": "required name=search_term_string" } }
           ]
         }) }} />
       </body>

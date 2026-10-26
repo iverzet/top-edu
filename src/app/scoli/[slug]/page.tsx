@@ -27,13 +27,16 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const enrichment = getSchoolEnrichment(school.siiirCode);
   const students = enrichment?.enrollment?.students;
   const categoryLabel = profileVariantLabels[resolveProfileVariant(school, enrichment)];
+  const verifiedImage = getVerifiedSchoolImage(school.siiirCode);
+  const socialImage = verifiedImage?.imageUrl ? `https://www.top-edu.ro${verifiedImage.imageUrl}` : undefined;
   const description = students
     ? `${school.name} din ${school.city}: profil ${categoryLabel.toLowerCase()}, ${formatNumber(students)} elevi, rezultate și date oficiale.`
     : `${school.name}, ${school.city}: profil ${categoryLabel.toLowerCase()}, date publice verificate și cod SIIIR.`;
   return {
     title: `${school.name} — date, rezultate și profil`, description,
     alternates: { canonical: `/scoli/${school.slug}` },
-    openGraph: { title: `${school.name} — Top Edu`, description, url: `https://top-edu.ro/scoli/${school.slug}`, type: "article" },
+    openGraph: { title: `${school.name} — Top Edu`, description, url: `https://www.top-edu.ro/scoli/${school.slug}`, type: "article", ...(socialImage ? { images: [{ url: socialImage, alt: verifiedImage?.alt ?? school.name }] } : {}) },
+    twitter: { card: "summary_large_image", title: `${school.name} — Top Edu`, description, ...(socialImage ? { images: [socialImage] } : {}) },
   };
 }
 
@@ -65,7 +68,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
   const studentChange = currentStudents !== undefined && previousStudents !== undefined ? currentStudents - previousStudents : undefined;
   const jsonLd = {
     "@context": "https://schema.org", "@type": "EducationalOrganization", name: school.name,
-    url: `https://top-edu.ro/scoli/${school.slug}`,
+    url: `https://www.top-edu.ro/scoli/${school.slug}`,
     address: { "@type": "PostalAddress", addressLocality: school.city, addressRegion: school.county, streetAddress: school.address },
     ...(coordinates && { geo: { "@type": "GeoCoordinates", latitude: coordinates.latitude, longitude: coordinates.longitude } }),
     identifier: { "@type": "PropertyValue", propertyID: "SIIIR", value: school.siiirCode },
