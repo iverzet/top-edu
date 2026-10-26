@@ -683,7 +683,7 @@ export function ProfileVariant({ kind }: { kind: ProfileVariantKind }) {
   return (
     <main className="lovable-profile">
       <header className="topbar profile-topbar">
-        <Link className="brand" href="/" aria-label="Top Edu acasă">
+        <Link className="brand" href="/" aria-label="topedu — pagina principală">
           <span className="brand-mark">
             <span />
             <span />

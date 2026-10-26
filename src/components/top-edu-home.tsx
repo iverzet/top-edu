@@ -22,7 +22,7 @@ export function TopEduHome({ featured, searchable }: { featured: School[]; searc
   return (
     <div className="site-shell">
       <header className="topbar">
-        <a className="brand" href="#top" aria-label="Top Edu acasă">
+        <a className="brand" href="#top" aria-label="topedu — acasă">
           <span className="brand-mark"><span /><span /><span /></span>
           <span>top<span className="brand-blue">edu</span></span>
         </a>

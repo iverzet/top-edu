@@ -79,7 +79,7 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
     <>
       <main className={`school-profile-page kind-${profileKind}`} data-profile-kind={profileKind}>
         <header className="site-header">
-          <Link className="brand" href="/" aria-label="Top Edu — pagina principală">
+          <Link className="brand" href="/" aria-label="topedu — pagina principală">
             <span className="brand-mark" aria-hidden="true"><span /><span /><span /></span>
             <span><span className="brand-blue">top</span>edu</span>
           </Link>
