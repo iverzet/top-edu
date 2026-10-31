@@ -90,8 +90,8 @@ export function GoogleAnalytics({
     const pageReferrer = medical ? `${window.location.origin}/` : undefined;
     if (!analyticsWindow.__ga4Initialized?.[measurementId]) {
       analyticsWindow.dataLayer = analyticsWindow.dataLayer || [];
-      analyticsWindow.gtag = analyticsWindow.gtag || function (...args: unknown[]) {
-        analyticsWindow.dataLayer?.push(args);
+      analyticsWindow.gtag = analyticsWindow.gtag || function gtag() {
+        analyticsWindow.dataLayer?.push(arguments);
       };
       analyticsWindow.gtag("consent", "default", {
         analytics_storage: "denied",
